@@ -1,0 +1,20 @@
+# test a parallel for loop in julia
+
+n = 10
+
+results = zeros(n,1)
+
+for i=1:1:n
+	results[i,1] = i
+end
+
+println("results = ", results)
+
+results2 = zeros(n,1)
+
+@parallel (+) for i=1:1:n
+	results2[i,1] = i
+end
+
+println("results2 = ", results2)
+

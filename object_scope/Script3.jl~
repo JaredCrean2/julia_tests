@@ -1,0 +1,13 @@
+# script to be executed on process 3
+
+include("create_object.jl")
+
+proc_num = myid()		# get process number of this thread
+
+r3 = RemoteRef(proc_num)
+
+a = 3
+
+put!(r3,a)		# put value a into remote ref r2
+
+println("r3 = ", r3)

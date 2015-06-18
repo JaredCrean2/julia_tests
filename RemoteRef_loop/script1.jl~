@@ -1,0 +1,10 @@
+# script to be executed on process 1
+
+rref = @spawnat 2 include("script2.jl")
+
+println("rref = ", rref)
+
+for i=1:1:1e5
+	r2_fetched = fetch(RemoteRef(2,2,1))
+	println("r2_fetched = ", r2_fetched)
+end

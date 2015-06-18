@@ -1,0 +1,14 @@
+# function to be executed on process 2
+
+let
+	b = 2
+
+	global testFunc
+	function testFunc(a)
+		b = b+a
+		return b
+	end
+
+	
+
+end

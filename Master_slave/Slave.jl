@@ -1,0 +1,46 @@
+# slave thread code
+
+function evalRHS(u_values_ref, i1_ref, i2_ref, i3_ref, i4_ref)
+# u_values is matrix of u values for this domain
+# i1 thru i4 are column matricies of values on other side of interface
+
+#println("entered slave thread")
+
+# unpack arguments
+u_values = fetch(u_values_ref)
+i1 = fetch(i1_ref)
+i2 = fetch(i2_ref)
+i3 = fetch(i3_ref)
+i4 = fetch(i4_ref)
+
+(m,n) = size(u_values)
+
+# update interior nodes
+u_values[2:(m-1), 2:(n-1)] = u_values[2:(m-1), 2:(n-1)] + 1
+
+# update interface nodes
+u_values[m,:] = u_values[n,:] + i1
+u_values[:,n] = u_values[:,n] + i2
+u_values[1,:] = u_values[1,:] + i3
+u_values[:,1] = u_values[:,1] + i4
+
+# normalize (so we don't exceed the maximum Int value)
+max = maximum(u_values)
+u_values = u_values/max
+
+# get new interface values
+i1_new = u_values[m,:]
+i2_new = u_values[:,n]
+i3_new = u_values[1,:]
+i4_new = u_values[:,1]
+
+
+#println("finished slave thread")
+
+# return u_values and interface values
+# only use u_values on output timesteps
+# use interface values every timestep
+return u_values, i1_new, i2_new, i3_new, i4_new
+
+end
+

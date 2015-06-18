@@ -1,0 +1,6 @@
+# script 2
+
+num = myid()
+r2 = RemoteRef(num)
+
+put!(r2, num)

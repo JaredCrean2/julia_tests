@@ -2,9 +2,13 @@ include("func1.jl")
 using ArrayViews
 
 
-#function runtest()
-n = 10000000
+
+
+function runtest()
+n = 30000000
 nnodes = 3
+
+obj = eulerFluxObj()
 
 q = rand(4, nnodes, n)
 F = Array(Float64, 4, nnodes, n)
@@ -25,12 +29,17 @@ gc()
 #println("funcs1 @time printed above")
 
 
-@time func3(q, F)
-println("slice @time printed above")
+#@time func3(q, F)
+#println("slice @time printed above")
+
+#gc()
+
+
+@time func6(obj, q, F)
+println("callable object @time printed above")
+
 
 gc()
-
-
 #=
 @time func4(q, F)
 println("temporary variables @time printed above")
@@ -62,13 +71,13 @@ println("First element of F2 = ", F2[1,1])
 
 =#
 
-#return nothing
+return nothing
 
-#end
+end
 
-#=
+
 runtest()
 println("Second round of testing: \n")
 gc()
 runtest()
-=#
+

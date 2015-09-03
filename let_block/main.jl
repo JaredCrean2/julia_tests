@@ -1,5 +1,6 @@
-include("funcs.jl")
-
+@time include("funcs.jl")
+println("finished including funcs.jl")
+#getfunc()
 setfunc(5)
 getfunc()
 

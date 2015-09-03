@@ -1,5 +1,45 @@
 # different ways to calculate the Euler flux
 
+abstract BCTypes
+type eulerFluxObj <: BCTypes
+end
+
+function call(obj::eulerFluxObj, q, F_xi)
+# get flux at single node 
+      # get direction vector components (xi direction)
+      nx = 1
+      ny = 0
+      # calculate pressure 
+      press = (1.4-1)*(q[4] - 0.5*(q[2]^2 + q[3]^2)/q[1])
+
+      # calculate flux in xi direction
+      # hopefully elements of q get stored in a register for reuse in eta direction
+      U = (q[2]*nx + q[3]*ny)/q[1]
+      F_xi[1] = q[1]*U
+      F_xi[2] = q[2]*U + nx*press
+      F_xi[3] = q[3]*U + ny*press
+      F_xi[4] = (q[4] + press)*U
+
+     return nothing
+end
+
+function func6{T <: BCTypes}(obj::T, q, F_xi)
+    
+   (ncomp, nnodes,  nel) = size(q)
+   for i=1:nel
+      for j=1:nnodes
+         q_j = unsafe_view(q, :, j, i)
+         F_j = unsafe_view(q, :, j, i)
+         obj(q_j, F_j)  # function call
+      end
+   end
+
+   return nothing
+end
+
+
+
+
 
 
 function func1(q, F_xi)

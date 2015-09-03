@@ -96,6 +96,23 @@ function func5(SL, indices, vals, n, op1)
 
 end
 
+function func5a{op}(SL, indices, vals, n, op1::op)
+
+  println("op = ", op)
+  for i=1:n
+    for j=1:3
+      index_i = indices[j, i]
+      val_i = vals[j,i]
+      SL[index_i] = op1(SL[index_i], val_i)
+    end
+  end
+
+  return nothing
+end
+
+
+
+
 function func6(SL, indices, vals, n, isplus::Bool)
 
   if isplus

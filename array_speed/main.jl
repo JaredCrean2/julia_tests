@@ -37,6 +37,14 @@ gc()
 println("double operator argument time printed above")
 gc()
 
+
+@time func5a{+}(SL, indices, vals, n, +)
+println("operator parameter argument time printed above")
+gc()
+
+
+
+
 @time func6(SL, indices, vals, n, true)
 println("boolean operator argument time printed above")
 gc()

@@ -1,7 +1,8 @@
 using PDESolverCommon
-OPENBLAS_NUM_THREADS=1
+#OPENBLAS_NUM_THREADS=1
+ENV["OPENBLAS_NUM_THREADS"] = 1
 # warm up
-function testmatvec()
+function testmatvec(max_size)
   A_ = rand(3,3)
   x_ = rand(3)
   b_ = zeros(3)
@@ -11,19 +12,20 @@ function testmatvec()
   println("b = ", b_)
   println("b2 = ", b__)
 
-  max_size = 128
+#  max_size = 128
   num_trials = 3
   times = zeros(max_size, 2)
 
   for trial=1:num_trials
 
-    for i=1:128  # sizes of matrices to test
+    for i=1:max_size  # sizes of matrices to test
       A = rand(i, i)
       x = rand(i)
       b = zeros(i)
 
-      println("size $i results:")
+      println("trial $trial size $i results:")
       elapsed_time = @elapsed smallmatvec!(A, x, b)
+      println("  elapsed time = ", elapsed_time)
       times[i,1] += elapsed_time
 
       elapsed_time = @elapsed A*x
@@ -49,7 +51,7 @@ function testmatmat(max_size)
   println("b2 = ", b__)
 
 #  max_size = 255
-  num_trials = 1
+  num_trials = 3
   times = zeros(max_size, 2)
 
   for trial=1:num_trials
@@ -59,7 +61,7 @@ function testmatmat(max_size)
       x = rand(i, i)
       b = zeros(i, i)
 
-      println("size $i results:")
+      println("trial $trial size $i results:")
       elapsed_time = @elapsed smallmatmat!(A, x, b)
       println("elapsed_time = ", elapsed_time)
       times[i,1] += elapsed_time
@@ -89,7 +91,7 @@ function testmatmatT(max_size)
   println("b2 = ", b__)
 
 #  max_size = 255
-  num_trials = 1
+  num_trials = 3
   times = zeros(max_size, 2)
 
   for trial=1:num_trials
@@ -99,8 +101,9 @@ function testmatmatT(max_size)
       x = rand(i, i)
       b = zeros(i, i)
 
-      println("size $i results:")
+      println("trial $trial size $i results:")
       elapsed_time = @elapsed smallmatmatT!(A, x, b)
+      println("  elapsed time = ", elapsed_time)
       times[i,1] += elapsed_time
 
       elapsed_time = @elapsed A*(x.')
@@ -130,22 +133,31 @@ function print_results(times, data, col)
 
 end
 
+nump =128
+data = zeros(nump, 3)
+for i=1:nump
+  data[i] = i
+end
 
-#=
-times = testmatvec()
+times = testmatvec(nump)
 println("printing matvec results")
-print_results(times)
-=#
+print_results(times, data, 2)
 
-nump = 512
+
+writedlm("matvec_compare.dat", data)
+
+
+# now do mat-mat multiplication
+
+nump =96 
 data = zeros(nump, 3)
 for i=1:nump
   data[i] = i
 end
 
 
-times = testmatmat(nump)
 
+times = testmatmat(nump)
 println("printing matmat results")
 print_results(times, data, 2)
 

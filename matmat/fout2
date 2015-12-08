@@ -1,0 +1,910 @@
+b = [0.15293322807389975 0.47624487772741286 0.6364053002904004
+ 0.14587923159173902 0.6061128523137393 0.6941930007789813
+ 0.31441281306799523 0.17895101664025326 0.807565194848322]
+b2 = [0.15293322807389975 0.47624487772741286 0.6364053002904004
+ 0.14587923159173902 0.6061128523137393 0.6941930007789813
+ 0.31441281306799523 0.17895101664025326 0.807565194848322]
+size 1 results:
+size 2 results:
+size 3 results:
+size 4 results:
+size 5 results:
+size 6 results:
+size 7 results:
+size 8 results:
+size 9 results:
+size 10 results:
+size 11 results:
+size 12 results:
+size 13 results:
+size 14 results:
+size 15 results:
+size 16 results:
+size 17 results:
+size 18 results:
+size 19 results:
+size 20 results:
+size 21 results:
+size 22 results:
+size 23 results:
+size 24 results:
+size 25 results:
+size 26 results:
+size 27 results:
+size 28 results:
+size 29 results:
+size 30 results:
+size 31 results:
+size 32 results:
+size 33 results:
+size 34 results:
+size 35 results:
+size 36 results:
+size 37 results:
+size 38 results:
+size 39 results:
+size 40 results:
+size 41 results:
+size 42 results:
+size 43 results:
+size 44 results:
+size 45 results:
+size 46 results:
+size 47 results:
+size 48 results:
+size 49 results:
+size 50 results:
+size 51 results:
+size 52 results:
+size 53 results:
+size 54 results:
+size 55 results:
+size 56 results:
+size 57 results:
+size 58 results:
+size 59 results:
+size 60 results:
+size 61 results:
+size 62 results:
+size 63 results:
+size 64 results:
+size 65 results:
+size 66 results:
+size 67 results:
+size 68 results:
+size 69 results:
+size 70 results:
+size 71 results:
+size 72 results:
+size 73 results:
+size 74 results:
+size 75 results:
+size 76 results:
+size 77 results:
+size 78 results:
+size 79 results:
+size 80 results:
+size 81 results:
+size 82 results:
+size 83 results:
+size 84 results:
+size 85 results:
+size 86 results:
+size 87 results:
+size 88 results:
+size 89 results:
+size 90 results:
+size 91 results:
+size 92 results:
+size 93 results:
+size 94 results:
+size 95 results:
+size 96 results:
+size 97 results:
+size 98 results:
+size 99 results:
+size 100 results:
+size 101 results:
+size 102 results:
+size 103 results:
+size 104 results:
+size 105 results:
+size 106 results:
+size 107 results:
+size 108 results:
+size 109 results:
+size 110 results:
+size 111 results:
+size 112 results:
+size 113 results:
+size 114 results:
+size 115 results:
+size 116 results:
+size 117 results:
+size 118 results:
+size 119 results:
+size 120 results:
+size 121 results:
+size 122 results:
+size 123 results:
+size 124 results:
+size 125 results:
+size 126 results:
+size 127 results:
+size 128 results:
+size 1 results:
+size 2 results:
+size 3 results:
+size 4 results:
+size 5 results:
+size 6 results:
+size 7 results:
+size 8 results:
+size 9 results:
+size 10 results:
+size 11 results:
+size 12 results:
+size 13 results:
+size 14 results:
+size 15 results:
+size 16 results:
+size 17 results:
+size 18 results:
+size 19 results:
+size 20 results:
+size 21 results:
+size 22 results:
+size 23 results:
+size 24 results:
+size 25 results:
+size 26 results:
+size 27 results:
+size 28 results:
+size 29 results:
+size 30 results:
+size 31 results:
+size 32 results:
+size 33 results:
+size 34 results:
+size 35 results:
+size 36 results:
+size 37 results:
+size 38 results:
+size 39 results:
+size 40 results:
+size 41 results:
+size 42 results:
+size 43 results:
+size 44 results:
+size 45 results:
+size 46 results:
+size 47 results:
+size 48 results:
+size 49 results:
+size 50 results:
+size 51 results:
+size 52 results:
+size 53 results:
+size 54 results:
+size 55 results:
+size 56 results:
+size 57 results:
+size 58 results:
+size 59 results:
+size 60 results:
+size 61 results:
+size 62 results:
+size 63 results:
+size 64 results:
+size 65 results:
+size 66 results:
+size 67 results:
+size 68 results:
+size 69 results:
+size 70 results:
+size 71 results:
+size 72 results:
+size 73 results:
+size 74 results:
+size 75 results:
+size 76 results:
+size 77 results:
+size 78 results:
+size 79 results:
+size 80 results:
+size 81 results:
+size 82 results:
+size 83 results:
+size 84 results:
+size 85 results:
+size 86 results:
+size 87 results:
+size 88 results:
+size 89 results:
+size 90 results:
+size 91 results:
+size 92 results:
+size 93 results:
+size 94 results:
+size 95 results:
+size 96 results:
+size 97 results:
+size 98 results:
+size 99 results:
+size 100 results:
+size 101 results:
+size 102 results:
+size 103 results:
+size 104 results:
+size 105 results:
+size 106 results:
+size 107 results:
+size 108 results:
+size 109 results:
+size 110 results:
+size 111 results:
+size 112 results:
+size 113 results:
+size 114 results:
+size 115 results:
+size 116 results:
+size 117 results:
+size 118 results:
+size 119 results:
+size 120 results:
+size 121 results:
+size 122 results:
+size 123 results:
+size 124 results:
+size 125 results:
+size 126 results:
+size 127 results:
+size 128 results:
+size 1 results:
+size 2 results:
+size 3 results:
+size 4 results:
+size 5 results:
+size 6 results:
+size 7 results:
+size 8 results:
+size 9 results:
+size 10 results:
+size 11 results:
+size 12 results:
+size 13 results:
+size 14 results:
+size 15 results:
+size 16 results:
+size 17 results:
+size 18 results:
+size 19 results:
+size 20 results:
+size 21 results:
+size 22 results:
+size 23 results:
+size 24 results:
+size 25 results:
+size 26 results:
+size 27 results:
+size 28 results:
+size 29 results:
+size 30 results:
+size 31 results:
+size 32 results:
+size 33 results:
+size 34 results:
+size 35 results:
+size 36 results:
+size 37 results:
+size 38 results:
+size 39 results:
+size 40 results:
+size 41 results:
+size 42 results:
+size 43 results:
+size 44 results:
+size 45 results:
+size 46 results:
+size 47 results:
+size 48 results:
+size 49 results:
+size 50 results:
+size 51 results:
+size 52 results:
+size 53 results:
+size 54 results:
+size 55 results:
+size 56 results:
+size 57 results:
+size 58 results:
+size 59 results:
+size 60 results:
+size 61 results:
+size 62 results:
+size 63 results:
+size 64 results:
+size 65 results:
+size 66 results:
+size 67 results:
+size 68 results:
+size 69 results:
+size 70 results:
+size 71 results:
+size 72 results:
+size 73 results:
+size 74 results:
+size 75 results:
+size 76 results:
+size 77 results:
+size 78 results:
+size 79 results:
+size 80 results:
+size 81 results:
+size 82 results:
+size 83 results:
+size 84 results:
+size 85 results:
+size 86 results:
+size 87 results:
+size 88 results:
+size 89 results:
+size 90 results:
+size 91 results:
+size 92 results:
+size 93 results:
+size 94 results:
+size 95 results:
+size 96 results:
+size 97 results:
+size 98 results:
+size 99 results:
+size 100 results:
+size 101 results:
+size 102 results:
+size 103 results:
+size 104 results:
+size 105 results:
+size 106 results:
+size 107 results:
+size 108 results:
+size 109 results:
+size 110 results:
+size 111 results:
+size 112 results:
+size 113 results:
+size 114 results:
+size 115 results:
+size 116 results:
+size 117 results:
+size 118 results:
+size 119 results:
+size 120 results:
+size 121 results:
+size 122 results:
+size 123 results:
+size 124 results:
+size 125 results:
+size 126 results:
+size 127 results:
+size 128 results:
+printing matmat results
+trial 1 results [6.27e-7 0.00028537066666666665], small/large = 0.002197142429962435
+trial 2 results [7.443333333333333e-7 0.0006326866666666667], small/large = 0.0011764643899560604
+trial 3 results [7.893333333333333e-7 0.0006781553333333333], small/large = 0.001163941791113737
+trial 4 results [5.836666666666666e-7 0.0006819223333333333], small/large = 0.0008559136988718656
+trial 5 results [7.466666666666666e-7 0.0007432713333333334], small/large = 0.001004568094020398
+trial 6 results [8.603333333333333e-7 0.0007664073333333334], small/large = 0.0011225536290101609
+trial 7 results [1.0623333333333334e-6 0.0008132946666666666], small/large = 0.0013062096394746636
+trial 8 results [1.0646666666666668e-6 0.0008111133333333333], small/large = 0.0013125991435639904
+trial 9 results [1.3763333333333335e-6 0.000872871], small/large = 0.0015767889336835953
+trial 10 results [1.958e-6 0.0008952823333333333], small/large = 0.002187019588234177
+trial 11 results [2.2066666666666666e-6 0.0009561779999999999], small/large = 0.002307799036023279
+trial 12 results [1.935666666666667e-6 0.0009530396666666668], small/large = 0.0020310452275683526
+trial 13 results [3.1819999999999998e-6 0.0010186429999999998], small/large = 0.00312376367382881
+trial 14 results [3.1493333333333335e-6 0.0010422336666666666], small/large = 0.0030217152199714654
+trial 15 results [3.939e-6 0.0011071506666666666], small/large = 0.003557781355864845
+trial 16 results [3.746e-6 0.0011056273333333335], small/large = 0.0033881217360159327
+trial 17 results [4.846333333333334e-6 0.0011754533333333333], small/large = 0.004122948309304779
+trial 18 results [5.6859999999999994e-6 0.0012057783333333332], small/large = 0.004715626282885052
+trial 19 results [6.9126666666666665e-6 0.0012802256666666666], small/large = 0.005399568878091024
+trial 20 results [6.298999999999999e-6 0.0012720480000000002], small/large = 0.0049518571626227924
+trial 21 results [8.107e-6 0.0013472860000000003], small/large = 0.006017282150931576
+trial 22 results [9.263000000000001e-6 0.0013940413333333333], small/large = 0.006644709721662964
+trial 23 results [1.0899333333333333e-5 0.0014770786666666667], small/large = 0.0073789795894418616
+trial 24 results [1.0149333333333335e-5 0.001454167], small/large = 0.006979482640806273
+trial 25 results [1.2879000000000002e-5 0.0015527936666666665], small/large = 0.008294083287734517
+trial 26 results [1.4235333333333334e-5 0.0015849143333333336], small/large = 0.008981768310085318
+trial 27 results [1.7427666666666666e-5 0.0016805856666666666], small/large = 0.010369996015278007
+trial 28 results [1.5352666666666666e-5 0.0016598986666666665], small/large = 0.0092491589848055
+trial 29 results [2.7271333333333334e-5 0.0017618089999999998], small/large = 0.015479165637894537
+trial 30 results [2.1385333333333333e-5 0.001802117], small/large = 0.011866784084126244
+trial 31 results [2.4546000000000002e-5 0.001906654], small/large = 0.012873861749431203
+trial 32 results [2.2144333333333334e-5 0.0018911363333333332], small/large = 0.011709538304042597
+trial 33 results [2.6448e-5 0.001992279], small/large = 0.01327524909914726
+trial 34 results [2.9083000000000003e-5 0.002048409666666667], small/large = 0.014197843562868039
+trial 35 results [3.3853e-5 0.0021530833333333337], small/large = 0.01572303285985215
+trial 36 results [3.0810666666666666e-5 0.0021273643333333332], small/large = 0.014483023045887925
+trial 37 results [3.7129e-5 0.0022618673333333335], small/large = 0.01641519794411756
+trial 38 results [3.9880666666666666e-5 0.002306368333333333], small/large = 0.017291542764562757
+trial 39 results [4.4593999999999994e-5 0.0024158113333333335], small/large = 0.018459222947045807
+trial 40 results [4.209333333333333e-5 0.0023876056666666664], small/large = 0.01762993526150396
+trial 41 results [4.9139666666666666e-5 0.002517789666666666], small/large = 0.01951698639375357
+trial 42 results [5.3159e-5 0.0025742503333333333], small/large = 0.02065028381725631
+trial 43 results [5.950833333333334e-5 0.002719618], small/large = 0.021881136738076207
+trial 44 results [5.8101666666666666e-5 0.002673946], small/large = 0.021728810778776635
+trial 45 results [6.483833333333333e-5 0.0028340253333333336], small/large = 0.022878529902579083
+trial 46 results [6.6895e-5 0.002873224], small/large = 0.023282208418139345
+trial 47 results [7.508233333333333e-5 0.003026250333333333], small/large = 0.024810351115478333
+trial 48 results [7.098166666666667e-5 0.002984582333333333], small/large = 0.023782780549863655
+trial 49 results [8.196366666666668e-5 0.003157667666666667], small/large = 0.025957027565598787
+trial 50 results [8.670266666666667e-5 0.0031929443333333332], small/large = 0.027154456080401443
+trial 51 results [9.611e-5 0.0033630886666666665], small/large = 0.028577896548668654
+trial 52 results [0.00010211133333333333 0.0033240906666666668], small/large = 0.03071857646883278
+trial 53 results [0.00010376199999999999 0.0034945180000000003], small/large = 0.029692793111954205
+trial 54 results [0.00010769666666666666 0.0035496783333333333], small/large = 0.030339838304597553
+trial 55 results [0.00011790766666666668 0.0037217599999999997], small/large = 0.03168062063826434
+trial 56 results [0.00011002266666666667 0.003670796666666667], small/large = 0.029972421971978833
+trial 57 results [0.00012579066666666667 0.003861295666666667], small/large = 0.03257732054879334
+trial 58 results [0.00012999566666666666 0.0039172596666666665], small/large = 0.033185358574220974
+trial 59 results [0.000143996 0.004095614333333333], small/large = 0.03515858386080135
+trial 60 results [0.00013462666666666666 0.004055489666666666], small/large = 0.03319615576220184
+trial 61 results [0.00015174199999999998 0.004272139], small/large = 0.03551897538914346
+trial 62 results [0.000158495 0.0043024330000000005], small/large = 0.036838458611673904
+trial 63 results [0.000171278 0.004544464666666667], small/large = 0.0376893677392438
+trial 64 results [0.00016470366666666665 0.004456669], small/large = 0.036956674742204695
+b = [1.0165573399768795 0.8909288419565791 0.9553421403736833
+ 0.2570226916183248 0.5945661119717183 0.30445098360139067
+ 0.5891241274302039 0.4809042086756256 0.544010830449503]
+b2 = [1.0165573399768795 0.8909288419565791 0.9553421403736833
+ 0.2570226916183248 0.5945661119717183 0.30445098360139067
+ 0.5891241274302039 0.4809042086756256 0.544010830449503]
+size 1 results:
+size 2 results:
+size 3 results:
+size 4 results:
+size 5 results:
+size 6 results:
+size 7 results:
+size 8 results:
+size 9 results:
+size 10 results:
+size 11 results:
+size 12 results:
+size 13 results:
+size 14 results:
+size 15 results:
+size 16 results:
+size 17 results:
+size 18 results:
+size 19 results:
+size 20 results:
+size 21 results:
+size 22 results:
+size 23 results:
+size 24 results:
+size 25 results:
+size 26 results:
+size 27 results:
+size 28 results:
+size 29 results:
+size 30 results:
+size 31 results:
+size 32 results:
+size 33 results:
+size 34 results:
+size 35 results:
+size 36 results:
+size 37 results:
+size 38 results:
+size 39 results:
+size 40 results:
+size 41 results:
+size 42 results:
+size 43 results:
+size 44 results:
+size 45 results:
+size 46 results:
+size 47 results:
+size 48 results:
+size 49 results:
+size 50 results:
+size 51 results:
+size 52 results:
+size 53 results:
+size 54 results:
+size 55 results:
+size 56 results:
+size 57 results:
+size 58 results:
+size 59 results:
+size 60 results:
+size 61 results:
+size 62 results:
+size 63 results:
+size 64 results:
+size 65 results:
+size 66 results:
+size 67 results:
+size 68 results:
+size 69 results:
+size 70 results:
+size 71 results:
+size 72 results:
+size 73 results:
+size 74 results:
+size 75 results:
+size 76 results:
+size 77 results:
+size 78 results:
+size 79 results:
+size 80 results:
+size 81 results:
+size 82 results:
+size 83 results:
+size 84 results:
+size 85 results:
+size 86 results:
+size 87 results:
+size 88 results:
+size 89 results:
+size 90 results:
+size 91 results:
+size 92 results:
+size 93 results:
+size 94 results:
+size 95 results:
+size 96 results:
+size 97 results:
+size 98 results:
+size 99 results:
+size 100 results:
+size 101 results:
+size 102 results:
+size 103 results:
+size 104 results:
+size 105 results:
+size 106 results:
+size 107 results:
+size 108 results:
+size 109 results:
+size 110 results:
+size 111 results:
+size 112 results:
+size 113 results:
+size 114 results:
+size 115 results:
+size 116 results:
+size 117 results:
+size 118 results:
+size 119 results:
+size 120 results:
+size 121 results:
+size 122 results:
+size 123 results:
+size 124 results:
+size 125 results:
+size 126 results:
+size 127 results:
+size 128 results:
+size 1 results:
+size 2 results:
+size 3 results:
+size 4 results:
+size 5 results:
+size 6 results:
+size 7 results:
+size 8 results:
+size 9 results:
+size 10 results:
+size 11 results:
+size 12 results:
+size 13 results:
+size 14 results:
+size 15 results:
+size 16 results:
+size 17 results:
+size 18 results:
+size 19 results:
+size 20 results:
+size 21 results:
+size 22 results:
+size 23 results:
+size 24 results:
+size 25 results:
+size 26 results:
+size 27 results:
+size 28 results:
+size 29 results:
+size 30 results:
+size 31 results:
+size 32 results:
+size 33 results:
+size 34 results:
+size 35 results:
+size 36 results:
+size 37 results:
+size 38 results:
+size 39 results:
+size 40 results:
+size 41 results:
+size 42 results:
+size 43 results:
+size 44 results:
+size 45 results:
+size 46 results:
+size 47 results:
+size 48 results:
+size 49 results:
+size 50 results:
+size 51 results:
+size 52 results:
+size 53 results:
+size 54 results:
+size 55 results:
+size 56 results:
+size 57 results:
+size 58 results:
+size 59 results:
+size 60 results:
+size 61 results:
+size 62 results:
+size 63 results:
+size 64 results:
+size 65 results:
+size 66 results:
+size 67 results:
+size 68 results:
+size 69 results:
+size 70 results:
+size 71 results:
+size 72 results:
+size 73 results:
+size 74 results:
+size 75 results:
+size 76 results:
+size 77 results:
+size 78 results:
+size 79 results:
+size 80 results:
+size 81 results:
+size 82 results:
+size 83 results:
+size 84 results:
+size 85 results:
+size 86 results:
+size 87 results:
+size 88 results:
+size 89 results:
+size 90 results:
+size 91 results:
+size 92 results:
+size 93 results:
+size 94 results:
+size 95 results:
+size 96 results:
+size 97 results:
+size 98 results:
+size 99 results:
+size 100 results:
+size 101 results:
+size 102 results:
+size 103 results:
+size 104 results:
+size 105 results:
+size 106 results:
+size 107 results:
+size 108 results:
+size 109 results:
+size 110 results:
+size 111 results:
+size 112 results:
+size 113 results:
+size 114 results:
+size 115 results:
+size 116 results:
+size 117 results:
+size 118 results:
+size 119 results:
+size 120 results:
+size 121 results:
+size 122 results:
+size 123 results:
+size 124 results:
+size 125 results:
+size 126 results:
+size 127 results:
+size 128 results:
+size 1 results:
+size 2 results:
+size 3 results:
+size 4 results:
+size 5 results:
+size 6 results:
+size 7 results:
+size 8 results:
+size 9 results:
+size 10 results:
+size 11 results:
+size 12 results:
+size 13 results:
+size 14 results:
+size 15 results:
+size 16 results:
+size 17 results:
+size 18 results:
+size 19 results:
+size 20 results:
+size 21 results:
+size 22 results:
+size 23 results:
+size 24 results:
+size 25 results:
+size 26 results:
+size 27 results:
+size 28 results:
+size 29 results:
+size 30 results:
+size 31 results:
+size 32 results:
+size 33 results:
+size 34 results:
+size 35 results:
+size 36 results:
+size 37 results:
+size 38 results:
+size 39 results:
+size 40 results:
+size 41 results:
+size 42 results:
+size 43 results:
+size 44 results:
+size 45 results:
+size 46 results:
+size 47 results:
+size 48 results:
+size 49 results:
+size 50 results:
+size 51 results:
+size 52 results:
+size 53 results:
+size 54 results:
+size 55 results:
+size 56 results:
+size 57 results:
+size 58 results:
+size 59 results:
+size 60 results:
+size 61 results:
+size 62 results:
+size 63 results:
+size 64 results:
+size 65 results:
+size 66 results:
+size 67 results:
+size 68 results:
+size 69 results:
+size 70 results:
+size 71 results:
+size 72 results:
+size 73 results:
+size 74 results:
+size 75 results:
+size 76 results:
+size 77 results:
+size 78 results:
+size 79 results:
+size 80 results:
+size 81 results:
+size 82 results:
+size 83 results:
+size 84 results:
+size 85 results:
+size 86 results:
+size 87 results:
+size 88 results:
+size 89 results:
+size 90 results:
+size 91 results:
+size 92 results:
+size 93 results:
+size 94 results:
+size 95 results:
+size 96 results:
+size 97 results:
+size 98 results:
+size 99 results:
+size 100 results:
+size 101 results:
+size 102 results:
+size 103 results:
+size 104 results:
+size 105 results:
+size 106 results:
+size 107 results:
+size 108 results:
+size 109 results:
+size 110 results:
+size 111 results:
+size 112 results:
+size 113 results:
+size 114 results:
+size 115 results:
+size 116 results:
+size 117 results:
+size 118 results:
+size 119 results:
+size 120 results:
+size 121 results:
+size 122 results:
+size 123 results:
+size 124 results:
+size 125 results:
+size 126 results:
+size 127 results:
+size 128 results:
+printing matmatT results
+trial 1 results [4.4099999999999994e-7 0.00032317099999999997], small/large = 0.0013646026407072415
+trial 2 results [5.313333333333334e-7 0.001126116], small/large = 0.0004718282426795583
+trial 3 results [6.44e-7 0.001180909], small/large = 0.0005453426131903474
+trial 4 results [4.433333333333333e-7 0.0012458466666666666], small/large = 0.00035584903439160517
+trial 5 results [5.753333333333333e-7 0.0012890133333333335], small/large = 0.0004463362158136455
+trial 6 results [7.003333333333333e-7 0.0013578976666666666], small/large = 0.0005157482412150352
+trial 7 results [7.076666666666666e-7 0.001409714], small/large = 0.0005019930756640471
+trial 8 results [1.0473333333333333e-6 0.0014741033333333334], small/large = 0.0007104884099034214
+trial 9 results [1.3876666666666667e-6 0.001550226], small/large = 0.0008951383002650367
+trial 10 results [1.4420000000000001e-6 0.001603061], small/large = 0.0008995290884127304
+trial 11 results [1.7879999999999999e-6 0.001664228], small/large = 0.001074372021141334
+trial 12 results [2.6109999999999996e-6 0.0017486203333333334], small/large = 0.0014931771924570625
+trial 13 results [2.6863333333333334e-6 0.0017972396666666665], small/large = 0.00149469955685747
+trial 14 results [3.2883333333333333e-6 0.0018700223333333332], small/large = 0.0017584460221241566
+trial 15 results [4.0623333333333335e-6 0.0019329120000000002], small/large = 0.0021016649145606902
+trial 16 results [4.579333333333333e-6 0.0020196180000000004], small/large = 0.0022674254900349137
+trial 17 results [5.546e-6 0.002078747666666667], small/large = 0.0026679524835706366
+trial 18 results [6.286666666666666e-6 0.002168539], small/large = 0.00289903325080465
+trial 19 results [7.319e-6 0.0022439776666666666], small/large = 0.0032616189139137303
+trial 20 results [8.464666666666667e-6 0.0023405133333333334], small/large = 0.0036165855353668852
+trial 21 results [9.679666666666666e-6 0.0024056029999999996], small/large = 0.004023800546751341
+trial 22 results [1.1176333333333335e-5 0.002497713333333333], small/large = 0.004474626124695389
+trial 23 results [1.2510666666666667e-5 0.0025828486666666663], small/large = 0.004843747459200734
+trial 24 results [1.4216666666666667e-5 0.002700362], small/large = 0.005264726235470158
+trial 25 results [1.5988333333333334e-5 0.002762634333333333], small/large = 0.005787350551762009
+trial 26 results [1.7863e-5 0.0028635786666666666], small/large = 0.006237998699994972
+trial 27 results [1.9904e-5 0.0029576453333333332], small/large = 0.006729677752662705
+trial 28 results [2.2270333333333336e-5 0.0030684279999999998], small/large = 0.007257896660222543
+trial 29 results [2.4508e-5 0.0031856666666666665], small/large = 0.007693209166056294
+trial 30 results [2.7147666666666668e-5 0.003264375333333333], small/large = 0.008316343525039911
+trial 31 results [2.991566666666667e-5 0.003374272666666666], small/large = 0.0088658118717535
+trial 32 results [3.286899999999999e-5 0.003509858666666667], small/large = 0.009364764545125082
+trial 33 results [3.584933333333333e-5 0.0036125269999999995], small/large = 0.00992361671852787
+trial 34 results [3.9159666666666664e-5 0.003736878666666667], small/large = 0.010479244888514797
+trial 35 results [4.260266666666667e-5 0.0038435896666666664], small/large = 0.01108408294364409
+trial 36 results [4.645e-5 0.0039759520000000005], small/large = 0.011682736612514434
+trial 37 results [5.0253333333333336e-5 0.004025615], small/large = 0.012483392806647764
+trial 38 results [5.442633333333334e-5 0.004158408333333333], small/large = 0.013088260933169544
+trial 39 results [5.870166666666667e-5 0.0042478206666666666], small/large = 0.013819243153861958
+trial 40 results [6.327866666666667e-5 0.004395927], small/large = 0.014394840193357777
+trial 41 results [6.8245e-5 0.004444546333333333], small/large = 0.015354772991829163
+trial 42 results [7.332e-5 0.004577662999999999], small/large = 0.016016906443309612
+trial 43 results [7.854800000000001e-5 0.004692075666666667], small/large = 0.01674056549386423
+trial 44 results [8.422033333333334e-5 0.004861091666666667], small/large = 0.017325395015865778
+trial 45 results [8.975400000000001e-5 0.005000773666666667], small/large = 0.01794802284259882
+trial 46 results [0.00010364 0.005162238666666667], small/large = 0.020076561099202698
+trial 47 results [0.00010234866666666667 0.0052949653333333345], small/large = 0.019329430926082233
+trial 48 results [0.000108953 0.005467001], small/large = 0.019929207988072437
+trial 49 results [0.00011585966666666666 0.005602679333333333], small/large = 0.020679332114789364
+trial 50 results [0.00012314733333333334 0.005796775666666667], small/large = 0.021244108865807985
+trial 51 results [0.00013049833333333334 0.005899846333333333], small/large = 0.022118937674026427
+trial 52 results [0.0001415 0.0060871173333333336], small/large = 0.02324581443914996
+trial 53 results [0.00014630499999999998 0.006219696], small/large = 0.023522853850091705
+trial 54 results [0.00015469033333333332 0.006398861333333333], small/large = 0.02417466565926521
+trial 55 results [0.00016656066666666667 0.006548195], small/large = 0.025436118910122055
+trial 56 results [0.00017269466666666668 0.006751943333333333], small/large = 0.025577031402810948
+trial 57 results [0.00018215766666666668 0.006870083], small/large = 0.02651462386504889
+trial 58 results [0.00019215233333333336 0.007106092333333334], small/large = 0.027040506134712483
+trial 59 results [0.00020196433333333335 0.007247698], small/large = 0.027865997359897355
+trial 60 results [0.00021332633333333336 0.007483914], small/large = 0.02850464787988389
+trial 61 results [0.00022632166666666667 0.0076148556666666666], small/large = 0.029721071097561187
+trial 62 results [0.00023467833333333334 0.007809156000000001], small/large = 0.030051689751534393
+trial 63 results [0.00024548999999999996 0.007979053333333335], small/large = 0.030766807758313842
+trial 64 results [0.00027915233333333333 0.010895250666666667], small/large = 0.025621469562640015

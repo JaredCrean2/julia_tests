@@ -53,8 +53,11 @@ function func2(q, F_xi)
    (ncomp, nnodes,  nel) = size(q)
    for i=1:nel
       for j=1:nnodes
-         q_j = unsafe_view(q, :, j, i)
-         F_j = unsafe_view(q, :, j, i)
+#         q_j = unsafe_view(q, :, j, i)
+#         F_j = unsafe_view(q, :, j, i)
+         q_j = view(q, :, j, i)
+         F_j = view(q, :, j, i)
+
          getEulerFlux(q_j, F_j)
       end
    end

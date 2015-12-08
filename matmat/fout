@@ -1,1543 +1,1578 @@
-b = [0.6198583802061195 0.5222521102723461 0.5414455814495985
- 0.9221165648881322 0.7529620056257572 0.8351251414213872
- 0.9248627194097606 1.2010466002683762 1.0174822142044386]
-b2 = [0.6198583802061195 0.5222521102723461 0.5414455814495985
- 0.9221165648881322 0.7529620056257572 0.8351251414213872
- 0.9248627194097606 1.2010466002683762 1.0174822142044386]
-size 1 results:
-elapsed_time = 5.96e-7
-size 2 results:
-elapsed_time = 6.85e-7
-size 3 results:
-elapsed_time = 7.0e-7
-size 4 results:
-elapsed_time = 7.56e-7
-size 5 results:
-elapsed_time = 9.24e-7
-size 6 results:
-elapsed_time = 1.2e-6
-size 7 results:
-elapsed_time = 1.297e-6
-size 8 results:
-elapsed_time = 1.616e-6
-size 9 results:
-elapsed_time = 1.774e-6
-size 10 results:
-elapsed_time = 2.105e-6
-size 11 results:
-elapsed_time = 2.344e-6
-size 12 results:
-elapsed_time = 2.157e-6
-size 13 results:
-elapsed_time = 3.845e-6
-size 14 results:
-elapsed_time = 4.817e-6
-size 15 results:
-elapsed_time = 4.376e-6
-size 16 results:
-elapsed_time = 4.215e-6
-size 17 results:
-elapsed_time = 5.456e-6
-size 18 results:
-elapsed_time = 6.311e-6
-size 19 results:
-elapsed_time = 7.495e-6
-size 20 results:
-elapsed_time = 7.015e-6
-size 21 results:
-elapsed_time = 1.2455e-5
-size 22 results:
-elapsed_time = 1.0362e-5
-size 23 results:
-elapsed_time = 1.1984e-5
-size 24 results:
-elapsed_time = 1.5794e-5
-size 25 results:
-elapsed_time = 1.8841e-5
-size 26 results:
-elapsed_time = 1.9607e-5
-size 27 results:
-elapsed_time = 2.2181e-5
-size 28 results:
-elapsed_time = 2.3365e-5
-size 29 results:
-elapsed_time = 2.9293e-5
-size 30 results:
-elapsed_time = 2.3122e-5
-size 31 results:
-elapsed_time = 2.6994e-5
-size 32 results:
-elapsed_time = 3.151e-5
-size 33 results:
-elapsed_time = 3.8548e-5
-size 34 results:
-elapsed_time = 4.0559e-5
-size 35 results:
-elapsed_time = 4.5669e-5
-size 36 results:
-elapsed_time = 4.0522e-5
-size 37 results:
-elapsed_time = 5.7483e-5
-size 38 results:
-elapsed_time = 4.3594e-5
-size 39 results:
-elapsed_time = 4.9515e-5
-size 40 results:
-elapsed_time = 6.4635e-5
-size 41 results:
-elapsed_time = 9.9173e-5
-size 42 results:
-elapsed_time = 7.4902e-5
-size 43 results:
-elapsed_time = 8.2362e-5
-size 44 results:
-elapsed_time = 8.0359e-5
-size 45 results:
-elapsed_time = 9.1664e-5
-size 46 results:
-elapsed_time = 9.6303e-5
-size 47 results:
-elapsed_time = 0.000133808
-size 48 results:
-elapsed_time = 0.000130856
-size 49 results:
-elapsed_time = 0.000109639
-size 50 results:
-elapsed_time = 0.000108894
-size 51 results:
-elapsed_time = 0.000125457
-size 52 results:
-elapsed_time = 0.000156998
-size 53 results:
-elapsed_time = 0.000131245
-size 54 results:
-elapsed_time = 0.000184288
-size 55 results:
-elapsed_time = 0.000201767
-size 56 results:
-elapsed_time = 0.000140899
-size 57 results:
-elapsed_time = 0.000159143
-size 58 results:
-elapsed_time = 0.000164787
-size 59 results:
-elapsed_time = 0.000245857
-size 60 results:
-elapsed_time = 0.000228875
-size 61 results:
-elapsed_time = 0.0001919
-size 62 results:
-elapsed_time = 0.000190879
-size 63 results:
-elapsed_time = 0.000207658
-size 64 results:
-elapsed_time = 0.000194928
-size 65 results:
-elapsed_time = 0.000228846
-size 66 results:
-elapsed_time = 0.000631744
-size 67 results:
-elapsed_time = 0.000677671
-size 68 results:
-elapsed_time = 0.000673284
-size 69 results:
-elapsed_time = 0.000723834
-size 70 results:
-elapsed_time = 0.000770661
-size 71 results:
-elapsed_time = 0.00088398
-size 72 results:
-elapsed_time = 0.000812229
-size 73 results:
-elapsed_time = 0.000860984
-size 74 results:
-elapsed_time = 0.000898231
-size 75 results:
-elapsed_time = 0.000938721
-size 76 results:
-elapsed_time = 0.000959577
-size 77 results:
-elapsed_time = 0.000995919
-size 78 results:
-elapsed_time = 0.001044498
-size 79 results:
-elapsed_time = 0.001091925
-size 80 results:
-elapsed_time = 0.001100996
-size 81 results:
-elapsed_time = 0.001157289
-size 82 results:
-elapsed_time = 0.001192463
-size 83 results:
-elapsed_time = 0.00126636
-size 84 results:
-elapsed_time = 0.001269733
-size 85 results:
-elapsed_time = 0.001315008
-size 86 results:
-elapsed_time = 0.001378326
-size 87 results:
-elapsed_time = 0.001446455
-size 88 results:
-elapsed_time = 0.001461003
-size 89 results:
-elapsed_time = 0.001533021
-size 90 results:
-elapsed_time = 0.001570643
-size 91 results:
-elapsed_time = 0.001663024
-size 92 results:
-elapsed_time = 0.001654025
-size 93 results:
-elapsed_time = 0.00174297
-size 94 results:
-elapsed_time = 0.001808402
-size 95 results:
-elapsed_time = 0.001881699
-size 96 results:
-elapsed_time = 0.00186442
-size 97 results:
-elapsed_time = 0.00198664
-size 98 results:
-elapsed_time = 0.002015028
-size 99 results:
-elapsed_time = 0.002146495
-size 100 results:
-elapsed_time = 0.002101149
-size 101 results:
-elapsed_time = 0.002234847
-size 102 results:
-elapsed_time = 0.002283592
-size 103 results:
-elapsed_time = 0.002386331
-size 104 results:
-elapsed_time = 0.00238578
-size 105 results:
-elapsed_time = 0.002489329
-size 106 results:
-elapsed_time = 0.00254145
-size 107 results:
-elapsed_time = 0.002682172
-size 108 results:
-elapsed_time = 0.002665385
-size 109 results:
-elapsed_time = 0.002799465
-size 110 results:
-elapsed_time = 0.002856175
-size 111 results:
-elapsed_time = 0.002988303
-size 112 results:
-elapsed_time = 0.002964855
-size 113 results:
-elapsed_time = 0.003128897
-size 114 results:
-elapsed_time = 0.003162021
-size 115 results:
-elapsed_time = 0.003322982
-size 116 results:
-elapsed_time = 0.003266938
-size 117 results:
-elapsed_time = 0.003428758
-size 118 results:
-elapsed_time = 0.003503197
-size 119 results:
-elapsed_time = 0.003662577
-size 120 results:
-elapsed_time = 0.003627331
-size 121 results:
-elapsed_time = 0.00382911
-size 122 results:
-elapsed_time = 0.003866649
-size 123 results:
-elapsed_time = 0.004038258
-size 124 results:
-elapsed_time = 0.00400083
-size 125 results:
-elapsed_time = 0.00419801
-size 126 results:
-elapsed_time = 0.004261412
-size 127 results:
-elapsed_time = 0.0044587
-size 128 results:
-elapsed_time = 0.004392489
-size 129 results:
-elapsed_time = 0.00459795
-size 130 results:
-elapsed_time = 0.004663132
-size 131 results:
-elapsed_time = 0.004872546
-size 132 results:
-elapsed_time = 0.004821419
-size 133 results:
-elapsed_time = 0.005055256
-size 134 results:
-elapsed_time = 0.00510122
-size 135 results:
-elapsed_time = 0.005340184
-size 136 results:
-elapsed_time = 0.005260204
-size 137 results:
-elapsed_time = 0.005514911
-size 138 results:
-elapsed_time = 0.005573451
-size 139 results:
-elapsed_time = 0.005808704
-size 140 results:
-elapsed_time = 0.005745553
-size 141 results:
-elapsed_time = 0.006003029
-size 142 results:
-elapsed_time = 0.006078312
-size 143 results:
-elapsed_time = 0.006307497
-size 144 results:
-elapsed_time = 0.006245699
-size 145 results:
-elapsed_time = 0.006538599
-size 146 results:
-elapsed_time = 0.006593743
-size 147 results:
-elapsed_time = 0.006866292
-size 148 results:
-elapsed_time = 0.00674002
-size 149 results:
-elapsed_time = 0.007068906
-size 150 results:
-elapsed_time = 0.007123178
-size 151 results:
-elapsed_time = 0.007419467
-size 152 results:
-elapsed_time = 0.00738117
-size 153 results:
-elapsed_time = 0.007665189
-size 154 results:
-elapsed_time = 0.007713395
-size 155 results:
-elapsed_time = 0.008034135
-size 156 results:
-elapsed_time = 0.007925846
-size 157 results:
-elapsed_time = 0.00829241
-size 158 results:
-elapsed_time = 0.008315764
-size 159 results:
-elapsed_time = 0.008679456
-size 160 results:
-elapsed_time = 0.008522184
-size 161 results:
-elapsed_time = 0.008947258
-size 162 results:
-elapsed_time = 0.008947688
-size 163 results:
-elapsed_time = 0.009324097
-size 164 results:
-elapsed_time = 0.00939132
-size 165 results:
-elapsed_time = 0.009640926
-size 166 results:
-elapsed_time = 0.009666853
-size 167 results:
-elapsed_time = 0.010048545
-size 168 results:
-elapsed_time = 0.009940216
-size 169 results:
-elapsed_time = 0.010362972
-size 170 results:
-elapsed_time = 0.010331164
-size 171 results:
-elapsed_time = 0.010841949
-size 172 results:
-elapsed_time = 0.010626849
-size 173 results:
-elapsed_time = 0.011125461
-size 174 results:
-elapsed_time = 0.011119597
-size 175 results:
-elapsed_time = 0.011538364
-size 176 results:
-elapsed_time = 0.011367874
-size 177 results:
-elapsed_time = 0.011815451
-size 178 results:
-elapsed_time = 0.01189434
-size 179 results:
-elapsed_time = 0.012368384
-size 180 results:
-elapsed_time = 0.01215817
-size 181 results:
-elapsed_time = 0.012829693
-size 182 results:
-elapsed_time = 0.012732794
-size 183 results:
-elapsed_time = 0.013189046
-size 184 results:
-elapsed_time = 0.01303148
-size 185 results:
-elapsed_time = 0.013630485
-size 186 results:
-elapsed_time = 0.013582223
-size 187 results:
-elapsed_time = 0.014092457
-size 188 results:
-elapsed_time = 0.01387999
-size 189 results:
-elapsed_time = 0.01439127
-size 190 results:
-elapsed_time = 0.014466615
-size 191 results:
-elapsed_time = 0.015045792
-size 192 results:
-elapsed_time = 0.014775619
-size 193 results:
-elapsed_time = 0.015539273
-size 194 results:
-elapsed_time = 0.015420263
-size 195 results:
-elapsed_time = 0.016011859
-size 196 results:
-elapsed_time = 0.015744284
-size 197 results:
-elapsed_time = 0.016534918
-size 198 results:
-elapsed_time = 0.016392296
-size 199 results:
-elapsed_time = 0.017001871
-size 200 results:
-elapsed_time = 0.016714862
-size 201 results:
-elapsed_time = 0.01763579
-size 202 results:
-elapsed_time = 0.017418636
-size 203 results:
-elapsed_time = 0.018052637
-size 204 results:
-elapsed_time = 0.017745743
-size 205 results:
-elapsed_time = 0.018635427
-size 206 results:
-elapsed_time = 0.018464975
-size 207 results:
-elapsed_time = 0.019147538
-size 208 results:
-elapsed_time = 0.018665191
-size 209 results:
-elapsed_time = 0.019754833
-size 210 results:
-elapsed_time = 0.019546118
-size 211 results:
-elapsed_time = 0.020244076
-size 212 results:
-elapsed_time = 0.019907949
-size 213 results:
-elapsed_time = 0.020889874
-size 214 results:
-elapsed_time = 0.020665302
-size 215 results:
-elapsed_time = 0.021431765
-size 216 results:
-elapsed_time = 0.021085129
-size 217 results:
-elapsed_time = 0.022067418
-size 218 results:
-elapsed_time = 0.021904977
-size 219 results:
-elapsed_time = 0.022652479
-size 220 results:
-elapsed_time = 0.022286037
-size 221 results:
-elapsed_time = 0.023294629
-size 222 results:
-elapsed_time = 0.023096725
-size 223 results:
-elapsed_time = 0.023946354
-size 224 results:
-elapsed_time = 0.023497637
-size 225 results:
-elapsed_time = 0.024605085
-size 226 results:
-elapsed_time = 0.024370528
-size 227 results:
-elapsed_time = 0.025161649
-size 228 results:
-elapsed_time = 0.024762441
-size 229 results:
-elapsed_time = 0.025916552
-size 230 results:
-elapsed_time = 0.025664969
-size 231 results:
-elapsed_time = 0.02637068
-size 232 results:
-elapsed_time = 0.026154097
-size 233 results:
-elapsed_time = 0.027301158
-size 234 results:
-elapsed_time = 0.026797716
-size 235 results:
-elapsed_time = 0.027908266
-size 236 results:
-elapsed_time = 0.027352262
-size 237 results:
-elapsed_time = 0.028294813
-size 238 results:
-elapsed_time = 0.028313404
-size 239 results:
-elapsed_time = 0.028209876
-size 240 results:
-elapsed_time = 0.028287993
-size 241 results:
-elapsed_time = 0.030369285
-size 242 results:
-elapsed_time = 0.02993268
-size 243 results:
-elapsed_time = 0.030953641
-size 244 results:
-elapsed_time = 0.03043354
-size 245 results:
-elapsed_time = 0.031777833
-size 246 results:
-elapsed_time = 0.031489271
-size 247 results:
-elapsed_time = 0.032457357
-size 248 results:
-elapsed_time = 0.031850645
-size 249 results:
-elapsed_time = 0.03338577
-size 250 results:
-elapsed_time = 0.032928807
-size 251 results:
-elapsed_time = 0.034003889
-size 252 results:
-elapsed_time = 0.033442263
-size 253 results:
-elapsed_time = 0.034998596
-size 254 results:
-elapsed_time = 0.03455477
-size 255 results:
-elapsed_time = 0.035942616
-size 256 results:
-elapsed_time = 0.035149551
-size 257 results:
-elapsed_time = 0.036032535
-size 258 results:
-elapsed_time = 0.036162361
-size 259 results:
-elapsed_time = 0.037274061
-size 260 results:
-elapsed_time = 0.038867219
-size 261 results:
-elapsed_time = 0.040353579
-size 262 results:
-elapsed_time = 0.040053105
-size 263 results:
-elapsed_time = 0.041531299
-size 264 results:
-elapsed_time = 0.040576652
-size 265 results:
-elapsed_time = 0.042211806
-size 266 results:
-elapsed_time = 0.041845236
-size 267 results:
-elapsed_time = 0.0433482
-size 268 results:
-elapsed_time = 0.042616894
-size 269 results:
-elapsed_time = 0.044100795
-size 270 results:
-elapsed_time = 0.043709556
-size 271 results:
-elapsed_time = 0.045378892
-size 272 results:
-elapsed_time = 0.044479992
-size 273 results:
-elapsed_time = 0.04608199
-size 274 results:
-elapsed_time = 0.045616397
-size 275 results:
-elapsed_time = 0.047308235
-size 276 results:
-elapsed_time = 0.046254779
-size 277 results:
-elapsed_time = 0.048088744
-size 278 results:
-elapsed_time = 0.047631071
-size 279 results:
-elapsed_time = 0.049315499
-size 280 results:
-elapsed_time = 0.048247102
-size 281 results:
-elapsed_time = 0.050178679
-size 282 results:
-elapsed_time = 0.049623692
-size 283 results:
-elapsed_time = 0.051558726
-size 284 results:
-elapsed_time = 0.050320671
-size 285 results:
-elapsed_time = 0.052350209
-size 286 results:
-elapsed_time = 0.051813315
-size 287 results:
-elapsed_time = 0.053686841
-size 288 results:
-elapsed_time = 0.053021632
-size 289 results:
-elapsed_time = 0.054547847
-size 290 results:
-elapsed_time = 0.05404914
-size 291 results:
-elapsed_time = 0.056005053
-size 292 results:
-elapsed_time = 0.054894302
-size 293 results:
-elapsed_time = 0.056850986
-size 294 results:
-elapsed_time = 0.056221703
-size 295 results:
-elapsed_time = 0.058410073
-size 296 results:
-elapsed_time = 0.06719672
-size 297 results:
-elapsed_time = 0.070592963
-size 298 results:
-elapsed_time = 0.069747745
-size 299 results:
-elapsed_time = 0.067947073
-size 300 results:
-elapsed_time = 0.04820122
-size 301 results:
-elapsed_time = 0.060885077
-size 302 results:
-elapsed_time = 0.059192549
-size 303 results:
-elapsed_time = 0.06248155
-size 304 results:
-elapsed_time = 0.060443703
-size 305 results:
-elapsed_time = 0.06351008
-size 306 results:
-elapsed_time = 0.062653712
-size 307 results:
-elapsed_time = 0.065051381
-size 308 results:
-elapsed_time = 0.06268915
-size 309 results:
-elapsed_time = 0.064750682
-size 310 results:
-elapsed_time = 0.064390694
-size 311 results:
-elapsed_time = 0.068084996
-size 312 results:
-elapsed_time = 0.06657764
-size 313 results:
-elapsed_time = 0.068558742
-size 314 results:
-elapsed_time = 0.067647471
-size 315 results:
-elapsed_time = 0.070237038
-size 316 results:
-elapsed_time = 0.067687137
-size 317 results:
-elapsed_time = 0.07042335
-size 318 results:
-elapsed_time = 0.069843831
-size 319 results:
-elapsed_time = 0.072881678
-size 320 results:
-elapsed_time = 0.061468495
-size 321 results:
-elapsed_time = 0.073164235
-size 322 results:
-elapsed_time = 0.073615083
-size 323 results:
-elapsed_time = 0.075751436
-size 324 results:
-elapsed_time = 0.072851228
-size 325 results:
-elapsed_time = 0.056471074
-size 326 results:
-elapsed_time = 0.074898142
-size 327 results:
-elapsed_time = 0.078646496
-size 328 results:
-elapsed_time = 0.076008863
-size 329 results:
-elapsed_time = 0.085813746
-size 330 results:
-elapsed_time = 0.078623438
-size 331 results:
-elapsed_time = 0.080867751
-size 332 results:
-elapsed_time = 0.078966954
-size 333 results:
-elapsed_time = 0.082840428
-size 334 results:
-elapsed_time = 0.081461412
-size 335 results:
-elapsed_time = 0.084711626
-size 336 results:
-elapsed_time = 0.082261073
-size 337 results:
-elapsed_time = 0.085888223
-size 338 results:
-elapsed_time = 0.084701081
-size 339 results:
-elapsed_time = 0.087810579
-size 340 results:
-elapsed_time = 0.086504145
-size 341 results:
-elapsed_time = 0.089046694
-size 342 results:
-elapsed_time = 0.087054627
-size 343 results:
-elapsed_time = 0.090961857
-size 344 results:
-elapsed_time = 0.087949527
-size 345 results:
-elapsed_time = 0.092262588
-size 346 results:
-elapsed_time = 0.091119343
-size 347 results:
-elapsed_time = 0.096308001
-size 348 results:
-elapsed_time = 0.092672211
-size 349 results:
-elapsed_time = 0.096221573
-size 350 results:
-elapsed_time = 0.095387518
-size 351 results:
-elapsed_time = 0.0978304
-size 352 results:
-elapsed_time = 0.096121832
-size 353 results:
-elapsed_time = 0.099085443
-size 354 results:
-elapsed_time = 0.098528915
-size 355 results:
-elapsed_time = 0.100927105
-size 356 results:
-elapsed_time = 0.099602387
-size 357 results:
-elapsed_time = 0.102179867
-size 358 results:
-elapsed_time = 0.101094453
-size 359 results:
-elapsed_time = 0.106784602
-size 360 results:
-elapsed_time = 0.102449727
-size 361 results:
-elapsed_time = 0.105335584
-size 362 results:
-elapsed_time = 0.104110258
-size 363 results:
-elapsed_time = 0.106563715
-size 364 results:
-elapsed_time = 0.105330977
-size 365 results:
-elapsed_time = 0.107520506
-size 366 results:
-elapsed_time = 0.106633084
-size 367 results:
-elapsed_time = 0.108450614
-size 368 results:
-elapsed_time = 0.107197575
-size 369 results:
-elapsed_time = 0.108934579
-size 370 results:
-elapsed_time = 0.1083172
-size 371 results:
-elapsed_time = 0.109171045
-size 372 results:
-elapsed_time = 0.108087081
-size 373 results:
-elapsed_time = 0.102880372
-size 374 results:
-elapsed_time = 0.109706778
-size 375 results:
-elapsed_time = 0.111894064
-size 376 results:
-elapsed_time = 0.110387144
-size 377 results:
-elapsed_time = 0.112600152
-size 378 results:
-elapsed_time = 0.111663182
-size 379 results:
-elapsed_time = 0.113356541
-size 380 results:
-elapsed_time = 0.112443496
-size 381 results:
-elapsed_time = 0.113888197
-size 382 results:
-elapsed_time = 0.113061839
-size 383 results:
-elapsed_time = 0.114720055
-size 384 results:
-elapsed_time = 0.113074594
-size 385 results:
-elapsed_time = 0.115640898
-size 386 results:
-elapsed_time = 0.114392453
-size 387 results:
-elapsed_time = 0.113919447
-size 388 results:
-elapsed_time = 0.114945687
-size 389 results:
-elapsed_time = 0.116821762
-size 390 results:
-elapsed_time = 0.115933053
-size 391 results:
-elapsed_time = 0.1173607
-size 392 results:
-elapsed_time = 0.116701574
-size 393 results:
-elapsed_time = 0.117790781
-size 394 results:
-elapsed_time = 0.116262001
-size 395 results:
-elapsed_time = 0.118459291
-size 396 results:
-elapsed_time = 0.117552287
-size 397 results:
-elapsed_time = 0.11921196
-size 398 results:
-elapsed_time = 0.119092913
-size 399 results:
-elapsed_time = 0.120815256
-size 400 results:
-elapsed_time = 0.118686199
-size 401 results:
-elapsed_time = 0.120414053
-size 402 results:
-elapsed_time = 0.119305316
-size 403 results:
-elapsed_time = 0.122412771
-size 404 results:
-elapsed_time = 0.120150457
-size 405 results:
-elapsed_time = 0.130264856
-size 406 results:
-elapsed_time = 0.120321188
-size 407 results:
-elapsed_time = 0.121731076
-size 408 results:
-elapsed_time = 0.121188286
-size 409 results:
-elapsed_time = 0.124446559
-size 410 results:
-elapsed_time = 0.122836368
-size 411 results:
-elapsed_time = 0.12452056
-size 412 results:
-elapsed_time = 0.123274937
-size 413 results:
-elapsed_time = 0.125430082
-size 414 results:
-elapsed_time = 0.123860003
-size 415 results:
-elapsed_time = 0.119696927
-size 416 results:
-elapsed_time = 0.125525508
-size 417 results:
-elapsed_time = 0.11948023
-size 418 results:
-elapsed_time = 0.128579757
-size 419 results:
-elapsed_time = 0.133611682
-size 420 results:
-elapsed_time = 0.128943273
-size 421 results:
-elapsed_time = 0.132752869
-size 422 results:
-elapsed_time = 0.126845453
-size 423 results:
-elapsed_time = 0.130222578
-size 424 results:
-elapsed_time = 0.122202806
-size 425 results:
-elapsed_time = 0.130104311
-size 426 results:
-elapsed_time = 0.128542268
-size 427 results:
-elapsed_time = 0.131478673
-size 428 results:
-elapsed_time = 0.12711752
-size 429 results:
-elapsed_time = 0.131059354
-size 430 results:
-elapsed_time = 0.124591028
-size 431 results:
-elapsed_time = 0.130968501
-size 432 results:
-elapsed_time = 0.128600752
-size 433 results:
-elapsed_time = 0.131491287
-size 434 results:
-elapsed_time = 0.132663155
-size 435 results:
-elapsed_time = 0.134440013
-size 436 results:
-elapsed_time = 0.139185394
-size 437 results:
-elapsed_time = 0.136164001
-size 438 results:
-elapsed_time = 0.131868745
-size 439 results:
-elapsed_time = 0.132329491
-size 440 results:
-elapsed_time = 0.131868182
-size 441 results:
-elapsed_time = 0.137319895
-size 442 results:
-elapsed_time = 0.142480141
-size 443 results:
-elapsed_time = 0.135852536
-size 444 results:
-elapsed_time = 0.135084912
-size 445 results:
-elapsed_time = 0.137131747
-size 446 results:
-elapsed_time = 0.135388232
-size 447 results:
-elapsed_time = 0.139052342
-size 448 results:
-elapsed_time = 0.136383439
-size 449 results:
-elapsed_time = 0.138990164
-size 450 results:
-elapsed_time = 0.13622776
-size 451 results:
-elapsed_time = 0.139417634
-size 452 results:
-elapsed_time = 0.138064562
-size 453 results:
-elapsed_time = 0.140184629
-size 454 results:
-elapsed_time = 0.135255131
-size 455 results:
-elapsed_time = 0.144274498
-size 456 results:
-elapsed_time = 0.140117626
-size 457 results:
-elapsed_time = 0.143406987
-size 458 results:
-elapsed_time = 0.141412663
-size 459 results:
-elapsed_time = 0.146833433
-size 460 results:
-elapsed_time = 0.141258185
-size 461 results:
-elapsed_time = 0.145606204
-size 462 results:
-elapsed_time = 0.142287174
-size 463 results:
-elapsed_time = 0.145686802
-size 464 results:
-elapsed_time = 0.155362651
-size 465 results:
-elapsed_time = 0.14641101
-size 466 results:
-elapsed_time = 0.145180977
-size 467 results:
-elapsed_time = 0.146087807
-size 468 results:
-elapsed_time = 0.144700121
-size 469 results:
-elapsed_time = 0.141601253
-size 470 results:
-elapsed_time = 0.144652123
-size 471 results:
-elapsed_time = 0.150380695
-size 472 results:
-elapsed_time = 0.147989405
-size 473 results:
-elapsed_time = 0.149806014
-size 474 results:
-elapsed_time = 0.145380722
-size 475 results:
-elapsed_time = 0.152402574
-size 476 results:
-elapsed_time = 0.151253436
-size 477 results:
-elapsed_time = 0.164491821
-size 478 results:
-elapsed_time = 0.149183763
-size 479 results:
-elapsed_time = 0.158453424
-size 480 results:
-elapsed_time = 0.151913026
-size 481 results:
-elapsed_time = 0.154830171
-size 482 results:
-elapsed_time = 0.153071625
-size 483 results:
-elapsed_time = 0.156237245
-size 484 results:
-elapsed_time = 0.154005164
-size 485 results:
-elapsed_time = 0.158132888
-size 486 results:
-elapsed_time = 0.152416602
-size 487 results:
-elapsed_time = 0.155933443
-size 488 results:
-elapsed_time = 0.158550949
-size 489 results:
-elapsed_time = 0.158681808
-size 490 results:
-elapsed_time = 0.151495534
-size 491 results:
-elapsed_time = 0.158724036
-size 492 results:
-elapsed_time = 0.154228366
-size 493 results:
-elapsed_time = 0.158411678
-size 494 results:
-elapsed_time = 0.155938254
-size 495 results:
-elapsed_time = 0.160451252
-size 496 results:
-elapsed_time = 0.155360505
-size 497 results:
-elapsed_time = 0.158443361
-size 498 results:
-elapsed_time = 0.157505826
-size 499 results:
-elapsed_time = 0.163163903
-size 500 results:
-elapsed_time = 0.160233578
-size 501 results:
-elapsed_time = 0.161405546
-size 502 results:
-elapsed_time = 0.16139867
-size 503 results:
-elapsed_time = 0.185228971
-size 504 results:
-elapsed_time = 0.157044328
-size 505 results:
-elapsed_time = 0.172873763
-size 506 results:
-elapsed_time = 0.161420377
-size 507 results:
-elapsed_time = 0.173147038
-size 508 results:
-elapsed_time = 0.165459543
-size 509 results:
-elapsed_time = 0.170581609
-size 510 results:
-elapsed_time = 0.162578714
-size 511 results:
-elapsed_time = 0.169681411
-size 512 results:
-elapsed_time = 0.167379768
+b = [1.0118587830721388,0.9938371115776377,0.9745953828869927]
+b2 = [1.0118587830721388,0.9938371115776377,0.9745953828869927]
+trial 1 size 1 results:
+  elapsed time = 3.61e-7
+trial 1 size 2 results:
+  elapsed time = 4.01e-7
+trial 1 size 3 results:
+  elapsed time = 4.5e-7
+trial 1 size 4 results:
+  elapsed time = 4.52e-7
+trial 1 size 5 results:
+  elapsed time = 4.81e-7
+trial 1 size 6 results:
+  elapsed time = 4.95e-7
+trial 1 size 7 results:
+  elapsed time = 5.21e-7
+trial 1 size 8 results:
+  elapsed time = 4.82e-7
+trial 1 size 9 results:
+  elapsed time = 4.96e-7
+trial 1 size 10 results:
+  elapsed time = 4.45e-7
+trial 1 size 11 results:
+  elapsed time = 5.71e-7
+trial 1 size 12 results:
+  elapsed time = 5.06e-7
+trial 1 size 13 results:
+  elapsed time = 4.6e-7
+trial 1 size 14 results:
+  elapsed time = 8.29e-7
+trial 1 size 15 results:
+  elapsed time = 5.4e-7
+trial 1 size 16 results:
+  elapsed time = 4.83e-7
+trial 1 size 17 results:
+  elapsed time = 5.5e-7
+trial 1 size 18 results:
+  elapsed time = 6.57e-7
+trial 1 size 19 results:
+  elapsed time = 6.5e-7
+trial 1 size 20 results:
+  elapsed time = 7.55e-7
+trial 1 size 21 results:
+  elapsed time = 7.31e-7
+trial 1 size 22 results:
+  elapsed time = 9.05e-7
+trial 1 size 23 results:
+  elapsed time = 7.87e-7
+trial 1 size 24 results:
+  elapsed time = 7.8e-7
+trial 1 size 25 results:
+  elapsed time = 8.51e-7
+trial 1 size 26 results:
+  elapsed time = 1.194e-6
+trial 1 size 27 results:
+  elapsed time = 9.88e-7
+trial 1 size 28 results:
+  elapsed time = 1.003e-6
+trial 1 size 29 results:
+  elapsed time = 9.78e-7
+trial 1 size 30 results:
+  elapsed time = 1.388e-6
+trial 1 size 31 results:
+  elapsed time = 1.105e-6
+trial 1 size 32 results:
+  elapsed time = 1.08e-6
+trial 1 size 33 results:
+  elapsed time = 1.153e-6
+trial 1 size 34 results:
+  elapsed time = 1.402e-6
+trial 1 size 35 results:
+  elapsed time = 1.308e-6
+trial 1 size 36 results:
+  elapsed time = 1.331e-6
+trial 1 size 37 results:
+  elapsed time = 1.368e-6
+trial 1 size 38 results:
+  elapsed time = 1.405e-6
+trial 1 size 39 results:
+  elapsed time = 1.455e-6
+trial 1 size 40 results:
+  elapsed time = 1.493e-6
+trial 1 size 41 results:
+  elapsed time = 1.582e-6
+trial 1 size 42 results:
+  elapsed time = 1.61e-6
+trial 1 size 43 results:
+  elapsed time = 1.713e-6
+trial 1 size 44 results:
+  elapsed time = 1.668e-6
+trial 1 size 45 results:
+  elapsed time = 1.78e-6
+trial 1 size 46 results:
+  elapsed time = 1.829e-6
+trial 1 size 47 results:
+  elapsed time = 2.306e-6
+trial 1 size 48 results:
+  elapsed time = 1.866e-6
+trial 1 size 49 results:
+  elapsed time = 2.021e-6
+trial 1 size 50 results:
+  elapsed time = 2.053e-6
+trial 1 size 51 results:
+  elapsed time = 2.354e-6
+trial 1 size 52 results:
+  elapsed time = 2.134e-6
+trial 1 size 53 results:
+  elapsed time = 2.287e-6
+trial 1 size 54 results:
+  elapsed time = 2.363e-6
+trial 1 size 55 results:
+  elapsed time = 6.455e-6
+trial 1 size 56 results:
+  elapsed time = 2.406e-6
+trial 1 size 57 results:
+  elapsed time = 2.571e-6
+trial 1 size 58 results:
+  elapsed time = 2.66e-6
+trial 1 size 59 results:
+  elapsed time = 2.797e-6
+trial 1 size 60 results:
+  elapsed time = 2.747e-6
+trial 1 size 61 results:
+  elapsed time = 2.853e-6
+trial 1 size 62 results:
+  elapsed time = 2.965e-6
+trial 1 size 63 results:
+  elapsed time = 3.123e-6
+trial 1 size 64 results:
+  elapsed time = 3.025e-6
+trial 1 size 65 results:
+  elapsed time = 3.359e-6
+trial 1 size 66 results:
+  elapsed time = 3.251e-6
+trial 1 size 67 results:
+  elapsed time = 4.102e-6
+trial 1 size 68 results:
+  elapsed time = 3.34e-6
+trial 1 size 69 results:
+  elapsed time = 3.561e-6
+trial 1 size 70 results:
+  elapsed time = 3.561e-6
+trial 1 size 71 results:
+  elapsed time = 3.915e-6
+trial 1 size 72 results:
+  elapsed time = 3.751e-6
+trial 1 size 73 results:
+  elapsed time = 4.086e-6
+trial 1 size 74 results:
+  elapsed time = 4.043e-6
+trial 1 size 75 results:
+  elapsed time = 4.277e-6
+trial 1 size 76 results:
+  elapsed time = 4.024e-6
+trial 1 size 77 results:
+  elapsed time = 4.383e-6
+trial 1 size 78 results:
+  elapsed time = 4.725e-6
+trial 1 size 79 results:
+  elapsed time = 4.584e-6
+trial 1 size 80 results:
+  elapsed time = 4.492e-6
+trial 1 size 81 results:
+  elapsed time = 4.701e-6
+trial 1 size 82 results:
+  elapsed time = 4.781e-6
+trial 1 size 83 results:
+  elapsed time = 5.085e-6
+trial 1 size 84 results:
+  elapsed time = 4.908e-6
+trial 1 size 85 results:
+  elapsed time = 5.199e-6
+trial 1 size 86 results:
+  elapsed time = 5.234e-6
+trial 1 size 87 results:
+  elapsed time = 5.52e-6
+trial 1 size 88 results:
+  elapsed time = 5.293e-6
+trial 1 size 89 results:
+  elapsed time = 5.614e-6
+trial 1 size 90 results:
+  elapsed time = 5.64e-6
+trial 1 size 91 results:
+  elapsed time = 5.972e-6
+trial 1 size 92 results:
+  elapsed time = 5.731e-6
+trial 1 size 93 results:
+  elapsed time = 6.259e-6
+trial 1 size 94 results:
+  elapsed time = 6.119e-6
+trial 1 size 95 results:
+  elapsed time = 6.488e-6
+trial 1 size 96 results:
+  elapsed time = 6.22e-6
+trial 1 size 97 results:
+  elapsed time = 7.041e-6
+trial 1 size 98 results:
+  elapsed time = 6.711e-6
+trial 1 size 99 results:
+  elapsed time = 7.022e-6
+trial 1 size 100 results:
+  elapsed time = 6.915e-6
+trial 1 size 101 results:
+  elapsed time = 7.236e-6
+trial 1 size 102 results:
+  elapsed time = 7.047e-6
+trial 1 size 103 results:
+  elapsed time = 7.742e-6
+trial 1 size 104 results:
+  elapsed time = 7.242e-6
+trial 1 size 105 results:
+  elapsed time = 8.044e-6
+trial 1 size 106 results:
+  elapsed time = 7.684e-6
+trial 1 size 107 results:
+  elapsed time = 8.145e-6
+trial 1 size 108 results:
+  elapsed time = 7.781e-6
+trial 1 size 109 results:
+  elapsed time = 8.194e-6
+trial 1 size 110 results:
+  elapsed time = 8.235e-6
+trial 1 size 111 results:
+  elapsed time = 8.656e-6
+trial 1 size 112 results:
+  elapsed time = 8.422e-6
+trial 1 size 113 results:
+  elapsed time = 8.835e-6
+trial 1 size 114 results:
+  elapsed time = 8.824e-6
+trial 1 size 115 results:
+  elapsed time = 1.0135e-5
+trial 1 size 116 results:
+  elapsed time = 9.926e-6
+trial 1 size 117 results:
+  elapsed time = 9.507e-6
+trial 1 size 118 results:
+  elapsed time = 9.881e-6
+trial 1 size 119 results:
+  elapsed time = 1.0059e-5
+trial 1 size 120 results:
+  elapsed time = 9.61e-6
+trial 1 size 121 results:
+  elapsed time = 1.0382e-5
+trial 1 size 122 results:
+  elapsed time = 1.0167e-5
+trial 1 size 123 results:
+  elapsed time = 1.0556e-5
+trial 1 size 124 results:
+  elapsed time = 1.0296e-5
+trial 1 size 125 results:
+  elapsed time = 1.1086e-5
+trial 1 size 126 results:
+  elapsed time = 1.0783e-5
+trial 1 size 127 results:
+  elapsed time = 1.147e-5
+trial 1 size 128 results:
+  elapsed time = 1.1019e-5
+trial 2 size 1 results:
+  elapsed time = 3.2e-7
+trial 2 size 2 results:
+  elapsed time = 4.17e-7
+trial 2 size 3 results:
+  elapsed time = 4.14e-7
+trial 2 size 4 results:
+  elapsed time = 4.34e-7
+trial 2 size 5 results:
+  elapsed time = 4.2e-7
+trial 2 size 6 results:
+  elapsed time = 4.32e-7
+trial 2 size 7 results:
+  elapsed time = 5.02e-7
+trial 2 size 8 results:
+  elapsed time = 4.4e-7
+trial 2 size 9 results:
+  elapsed time = 4.51e-7
+trial 2 size 10 results:
+  elapsed time = 5.39e-7
+trial 2 size 11 results:
+  elapsed time = 4.7e-7
+trial 2 size 12 results:
+  elapsed time = 5.1e-7
+trial 2 size 13 results:
+  elapsed time = 4.87e-7
+trial 2 size 14 results:
+  elapsed time = 5.5e-7
+trial 2 size 15 results:
+  elapsed time = 5.37e-7
+trial 2 size 16 results:
+  elapsed time = 5.24e-7
+trial 2 size 17 results:
+  elapsed time = 6.39e-7
+trial 2 size 18 results:
+  elapsed time = 7.41e-7
+trial 2 size 19 results:
+  elapsed time = 6.12e-7
+trial 2 size 20 results:
+  elapsed time = 6.65e-7
+trial 2 size 21 results:
+  elapsed time = 7.43e-7
+trial 2 size 22 results:
+  elapsed time = 7.27e-7
+trial 2 size 23 results:
+  elapsed time = 8.56e-7
+trial 2 size 24 results:
+  elapsed time = 7.95e-7
+trial 2 size 25 results:
+  elapsed time = 8.08e-7
+trial 2 size 26 results:
+  elapsed time = 9.26e-7
+trial 2 size 27 results:
+  elapsed time = 1.017e-6
+trial 2 size 28 results:
+  elapsed time = 1.02e-6
+trial 2 size 29 results:
+  elapsed time = 9.94e-7
+trial 2 size 30 results:
+  elapsed time = 1.024e-6
+trial 2 size 31 results:
+  elapsed time = 1.095e-6
+trial 2 size 32 results:
+  elapsed time = 1.095e-6
+trial 2 size 33 results:
+  elapsed time = 1.175e-6
+trial 2 size 34 results:
+  elapsed time = 1.387e-6
+trial 2 size 35 results:
+  elapsed time = 1.264e-6
+trial 2 size 36 results:
+  elapsed time = 1.291e-6
+trial 2 size 37 results:
+  elapsed time = 1.371e-6
+trial 2 size 38 results:
+  elapsed time = 1.423e-6
+trial 2 size 39 results:
+  elapsed time = 1.481e-6
+trial 2 size 40 results:
+  elapsed time = 1.712e-6
+trial 2 size 41 results:
+  elapsed time = 1.66e-6
+trial 2 size 42 results:
+  elapsed time = 1.622e-6
+trial 2 size 43 results:
+  elapsed time = 1.72e-6
+trial 2 size 44 results:
+  elapsed time = 1.679e-6
+trial 2 size 45 results:
+  elapsed time = 1.779e-6
+trial 2 size 46 results:
+  elapsed time = 1.82e-6
+trial 2 size 47 results:
+  elapsed time = 1.956e-6
+trial 2 size 48 results:
+  elapsed time = 1.87e-6
+trial 2 size 49 results:
+  elapsed time = 2.108e-6
+trial 2 size 50 results:
+  elapsed time = 2.06e-6
+trial 2 size 51 results:
+  elapsed time = 2.179e-6
+trial 2 size 52 results:
+  elapsed time = 2.189e-6
+trial 2 size 53 results:
+  elapsed time = 2.281e-6
+trial 2 size 54 results:
+  elapsed time = 2.352e-6
+trial 2 size 55 results:
+  elapsed time = 2.486e-6
+trial 2 size 56 results:
+  elapsed time = 2.427e-6
+trial 2 size 57 results:
+  elapsed time = 2.572e-6
+trial 2 size 58 results:
+  elapsed time = 2.636e-6
+trial 2 size 59 results:
+  elapsed time = 2.85e-6
+trial 2 size 60 results:
+  elapsed time = 2.731e-6
+trial 2 size 61 results:
+  elapsed time = 2.865e-6
+trial 2 size 62 results:
+  elapsed time = 2.943e-6
+trial 2 size 63 results:
+  elapsed time = 3.112e-6
+trial 2 size 64 results:
+  elapsed time = 3.315e-6
+trial 2 size 65 results:
+  elapsed time = 3.248e-6
+trial 2 size 66 results:
+  elapsed time = 3.298e-6
+trial 2 size 67 results:
+  elapsed time = 3.421e-6
+trial 2 size 68 results:
+  elapsed time = 3.357e-6
+trial 2 size 69 results:
+  elapsed time = 3.644e-6
+trial 2 size 70 results:
+  elapsed time = 3.645e-6
+trial 2 size 71 results:
+  elapsed time = 4.253e-6
+trial 2 size 72 results:
+  elapsed time = 3.707e-6
+trial 2 size 73 results:
+  elapsed time = 3.928e-6
+trial 2 size 74 results:
+  elapsed time = 3.987e-6
+trial 2 size 75 results:
+  elapsed time = 4.162e-6
+trial 2 size 76 results:
+  elapsed time = 4.062e-6
+trial 2 size 77 results:
+  elapsed time = 4.335e-6
+trial 2 size 78 results:
+  elapsed time = 4.34e-6
+trial 2 size 79 results:
+  elapsed time = 4.569e-6
+trial 2 size 80 results:
+  elapsed time = 4.518e-6
+trial 2 size 81 results:
+  elapsed time = 4.77e-6
+trial 2 size 82 results:
+  elapsed time = 4.766e-6
+trial 2 size 83 results:
+  elapsed time = 5.092e-6
+trial 2 size 84 results:
+  elapsed time = 4.917e-6
+trial 2 size 85 results:
+  elapsed time = 5.479e-6
+trial 2 size 86 results:
+  elapsed time = 5.192e-6
+trial 2 size 87 results:
+  elapsed time = 5.477e-6
+trial 2 size 88 results:
+  elapsed time = 5.334e-6
+trial 2 size 89 results:
+  elapsed time = 5.684e-6
+trial 2 size 90 results:
+  elapsed time = 5.6e-6
+trial 2 size 91 results:
+  elapsed time = 6.055e-6
+trial 2 size 92 results:
+  elapsed time = 5.729e-6
+trial 2 size 93 results:
+  elapsed time = 6.55e-6
+trial 2 size 94 results:
+  elapsed time = 6.097e-6
+trial 2 size 95 results:
+  elapsed time = 6.504e-6
+trial 2 size 96 results:
+  elapsed time = 6.253e-6
+trial 2 size 97 results:
+  elapsed time = 6.741e-6
+trial 2 size 98 results:
+  elapsed time = 6.56e-6
+trial 2 size 99 results:
+  elapsed time = 7.016e-6
+trial 2 size 100 results:
+  elapsed time = 6.698e-6
+trial 2 size 101 results:
+  elapsed time = 7.199e-6
+trial 2 size 102 results:
+  elapsed time = 7.107e-6
+trial 2 size 103 results:
+  elapsed time = 7.473e-6
+trial 2 size 104 results:
+  elapsed time = 7.227e-6
+trial 2 size 105 results:
+  elapsed time = 7.642e-6
+trial 2 size 106 results:
+  elapsed time = 7.601e-6
+trial 2 size 107 results:
+  elapsed time = 8.081e-6
+trial 2 size 108 results:
+  elapsed time = 7.734e-6
+trial 2 size 109 results:
+  elapsed time = 8.269e-6
+trial 2 size 110 results:
+  elapsed time = 8.173e-6
+trial 2 size 111 results:
+  elapsed time = 8.703e-6
+trial 2 size 112 results:
+  elapsed time = 8.39e-6
+trial 2 size 113 results:
+  elapsed time = 8.771e-6
+trial 2 size 114 results:
+  elapsed time = 8.786e-6
+trial 2 size 115 results:
+  elapsed time = 9.38e-6
+trial 2 size 116 results:
+  elapsed time = 8.944e-6
+trial 2 size 117 results:
+  elapsed time = 9.789e-6
+trial 2 size 118 results:
+  elapsed time = 9.624e-6
+trial 2 size 119 results:
+  elapsed time = 1.0026e-5
+trial 2 size 120 results:
+  elapsed time = 9.566e-6
+trial 2 size 121 results:
+  elapsed time = 1.0322e-5
+trial 2 size 122 results:
+  elapsed time = 1.0019e-5
+trial 2 size 123 results:
+  elapsed time = 1.0573e-5
+trial 2 size 124 results:
+  elapsed time = 1.032e-5
+trial 2 size 125 results:
+  elapsed time = 1.0963e-5
+trial 2 size 126 results:
+  elapsed time = 1.1036e-5
+trial 2 size 127 results:
+  elapsed time = 1.1311e-5
+trial 2 size 128 results:
+  elapsed time = 1.104e-5
+trial 3 size 1 results:
+  elapsed time = 3.26e-7
+trial 3 size 2 results:
+  elapsed time = 3.78e-7
+trial 3 size 3 results:
+  elapsed time = 4.19e-7
+trial 3 size 4 results:
+  elapsed time = 4.8e-7
+trial 3 size 5 results:
+  elapsed time = 4.34e-7
+trial 3 size 6 results:
+  elapsed time = 4.52e-7
+trial 3 size 7 results:
+  elapsed time = 4.67e-7
+trial 3 size 8 results:
+  elapsed time = 4.99e-7
+trial 3 size 9 results:
+  elapsed time = 4.92e-7
+trial 3 size 10 results:
+  elapsed time = 5.34e-7
+trial 3 size 11 results:
+  elapsed time = 5.56e-7
+trial 3 size 12 results:
+  elapsed time = 4.97e-7
+trial 3 size 13 results:
+  elapsed time = 5.36e-7
+trial 3 size 14 results:
+  elapsed time = 5.67e-7
+trial 3 size 15 results:
+  elapsed time = 5.52e-7
+trial 3 size 16 results:
+  elapsed time = 5.83e-7
+trial 3 size 17 results:
+  elapsed time = 5.14e-7
+trial 3 size 18 results:
+  elapsed time = 6.11e-7
+trial 3 size 19 results:
+  elapsed time = 6.4e-7
+trial 3 size 20 results:
+  elapsed time = 8.13e-7
+trial 3 size 21 results:
+  elapsed time = 7.19e-7
+trial 3 size 22 results:
+  elapsed time = 7.46e-7
+trial 3 size 23 results:
+  elapsed time = 8.04e-7
+trial 3 size 24 results:
+  elapsed time = 8.14e-7
+trial 3 size 25 results:
+  elapsed time = 8.67e-7
+trial 3 size 26 results:
+  elapsed time = 9.03e-7
+trial 3 size 27 results:
+  elapsed time = 9.48e-7
+trial 3 size 28 results:
+  elapsed time = 9.89e-7
+trial 3 size 29 results:
+  elapsed time = 9.69e-7
+trial 3 size 30 results:
+  elapsed time = 1.051e-6
+trial 3 size 31 results:
+  elapsed time = 1.115e-6
+trial 3 size 32 results:
+  elapsed time = 1.135e-6
+trial 3 size 33 results:
+  elapsed time = 1.138e-6
+trial 3 size 34 results:
+  elapsed time = 1.314e-6
+trial 3 size 35 results:
+  elapsed time = 1.3e-6
+trial 3 size 36 results:
+  elapsed time = 1.305e-6
+trial 3 size 37 results:
+  elapsed time = 1.326e-6
+trial 3 size 38 results:
+  elapsed time = 1.432e-6
+trial 3 size 39 results:
+  elapsed time = 1.455e-6
+trial 3 size 40 results:
+  elapsed time = 1.499e-6
+trial 3 size 41 results:
+  elapsed time = 1.55e-6
+trial 3 size 42 results:
+  elapsed time = 1.965e-6
+trial 3 size 43 results:
+  elapsed time = 1.712e-6
+trial 3 size 44 results:
+  elapsed time = 1.69e-6
+trial 3 size 45 results:
+  elapsed time = 1.773e-6
+trial 3 size 46 results:
+  elapsed time = 2.157e-6
+trial 3 size 47 results:
+  elapsed time = 2.07e-6
+trial 3 size 48 results:
+  elapsed time = 1.885e-6
+trial 3 size 49 results:
+  elapsed time = 2.033e-6
+trial 3 size 50 results:
+  elapsed time = 2.092e-6
+trial 3 size 51 results:
+  elapsed time = 2.209e-6
+trial 3 size 52 results:
+  elapsed time = 2.189e-6
+trial 3 size 53 results:
+  elapsed time = 2.32e-6
+trial 3 size 54 results:
+  elapsed time = 2.348e-6
+trial 3 size 55 results:
+  elapsed time = 2.51e-6
+trial 3 size 56 results:
+  elapsed time = 2.41e-6
+trial 3 size 57 results:
+  elapsed time = 2.577e-6
+trial 3 size 58 results:
+  elapsed time = 2.668e-6
+trial 3 size 59 results:
+  elapsed time = 2.8e-6
+trial 3 size 60 results:
+  elapsed time = 2.736e-6
+trial 3 size 61 results:
+  elapsed time = 2.837e-6
+trial 3 size 62 results:
+  elapsed time = 2.984e-6
+trial 3 size 63 results:
+  elapsed time = 3.354e-6
+trial 3 size 64 results:
+  elapsed time = 3.032e-6
+trial 3 size 65 results:
+  elapsed time = 3.293e-6
+trial 3 size 66 results:
+  elapsed time = 3.246e-6
+trial 3 size 67 results:
+  elapsed time = 3.469e-6
+trial 3 size 68 results:
+  elapsed time = 3.364e-6
+trial 3 size 69 results:
+  elapsed time = 3.602e-6
+trial 3 size 70 results:
+  elapsed time = 3.559e-6
+trial 3 size 71 results:
+  elapsed time = 3.936e-6
+trial 3 size 72 results:
+  elapsed time = 3.716e-6
+trial 3 size 73 results:
+  elapsed time = 3.883e-6
+trial 3 size 74 results:
+  elapsed time = 4.019e-6
+trial 3 size 75 results:
+  elapsed time = 4.188e-6
+trial 3 size 76 results:
+  elapsed time = 4.116e-6
+trial 3 size 77 results:
+  elapsed time = 4.363e-6
+trial 3 size 78 results:
+  elapsed time = 4.391e-6
+trial 3 size 79 results:
+  elapsed time = 4.583e-6
+trial 3 size 80 results:
+  elapsed time = 4.505e-6
+trial 3 size 81 results:
+  elapsed time = 4.749e-6
+trial 3 size 82 results:
+  elapsed time = 4.826e-6
+trial 3 size 83 results:
+  elapsed time = 5.077e-6
+trial 3 size 84 results:
+  elapsed time = 4.878e-6
+trial 3 size 85 results:
+  elapsed time = 5.197e-6
+trial 3 size 86 results:
+  elapsed time = 5.126e-6
+trial 3 size 87 results:
+  elapsed time = 5.501e-6
+trial 3 size 88 results:
+  elapsed time = 5.301e-6
+trial 3 size 89 results:
+  elapsed time = 5.673e-6
+trial 3 size 90 results:
+  elapsed time = 5.624e-6
+trial 3 size 91 results:
+  elapsed time = 5.963e-6
+trial 3 size 92 results:
+  elapsed time = 6.017e-6
+trial 3 size 93 results:
+  elapsed time = 6.263e-6
+trial 3 size 94 results:
+  elapsed time = 6.065e-6
+trial 3 size 95 results:
+  elapsed time = 6.466e-6
+trial 3 size 96 results:
+  elapsed time = 6.223e-6
+trial 3 size 97 results:
+  elapsed time = 7.077e-6
+trial 3 size 98 results:
+  elapsed time = 6.562e-6
+trial 3 size 99 results:
+  elapsed time = 7.264e-6
+trial 3 size 100 results:
+  elapsed time = 6.697e-6
+trial 3 size 101 results:
+  elapsed time = 7.191e-6
+trial 3 size 102 results:
+  elapsed time = 6.997e-6
+trial 3 size 103 results:
+  elapsed time = 7.769e-6
+trial 3 size 104 results:
+  elapsed time = 7.263e-6
+trial 3 size 105 results:
+  elapsed time = 7.652e-6
+trial 3 size 106 results:
+  elapsed time = 7.648e-6
+trial 3 size 107 results:
+  elapsed time = 8.091e-6
+trial 3 size 108 results:
+  elapsed time = 7.764e-6
+trial 3 size 109 results:
+  elapsed time = 8.244e-6
+trial 3 size 110 results:
+  elapsed time = 8.221e-6
+trial 3 size 111 results:
+  elapsed time = 8.664e-6
+trial 3 size 112 results:
+  elapsed time = 8.369e-6
+trial 3 size 113 results:
+  elapsed time = 8.887e-6
+trial 3 size 114 results:
+  elapsed time = 8.803e-6
+trial 3 size 115 results:
+  elapsed time = 9.407e-6
+trial 3 size 116 results:
+  elapsed time = 9.035e-6
+trial 3 size 117 results:
+  elapsed time = 9.52e-6
+trial 3 size 118 results:
+  elapsed time = 9.536e-6
+trial 3 size 119 results:
+  elapsed time = 9.912e-6
+trial 3 size 120 results:
+  elapsed time = 9.808e-6
+trial 3 size 121 results:
+  elapsed time = 1.0318e-5
+trial 3 size 122 results:
+  elapsed time = 1.002e-5
+trial 3 size 123 results:
+  elapsed time = 1.0578e-5
+trial 3 size 124 results:
+  elapsed time = 1.0346e-5
+trial 3 size 125 results:
+  elapsed time = 1.0949e-5
+trial 3 size 126 results:
+  elapsed time = 1.0828e-5
+trial 3 size 127 results:
+  elapsed time = 1.1393e-5
+trial 3 size 128 results:
+  elapsed time = 1.0998e-5
+printing matvec results
+trial 1 results [3.3566666666666667e-7 6.891666666666667e-6], small/large = 0.04870616686819831
+trial 2 results [3.986666666666667e-7 6.739666666666667e-6], small/large = 0.059152282506553244
+trial 3 results [4.276666666666666e-7 6.452666666666667e-6], small/large = 0.0662775080070255
+trial 4 results [4.5533333333333336e-7 6.849000000000001e-6], small/large = 0.06648172482600866
+trial 5 results [4.45e-7 7.009666666666666e-6], small/large = 0.06348376052118504
+trial 6 results [4.5966666666666667e-7 7.174666666666667e-6], small/large = 0.06406801709719383
+trial 7 results [4.966666666666666e-7 6.880333333333333e-6], small/large = 0.07218642507630443
+trial 8 results [4.7366666666666666e-7 7.122333333333334e-6], small/large = 0.06650442270791407
+trial 9 results [4.796666666666667e-7 6.881333333333334e-6], small/large = 0.06970548343344314
+trial 10 results [5.06e-7 6.939666666666667e-6], small/large = 0.07291416494548249
+trial 11 results [5.323333333333334e-7 7.231e-6], small/large = 0.07361821785829531
+trial 12 results [5.043333333333334e-7 7.290333333333334e-6], small/large = 0.06917836404371086
+trial 13 results [4.943333333333334e-7 7.380666666666666e-6], small/large = 0.06697678619817543
+trial 14 results [6.486666666666667e-7 7.798333333333335e-6], small/large = 0.08318016670228681
+trial 15 results [5.43e-7 7.4069999999999996e-6], small/large = 0.07330903199675982
+trial 16 results [5.299999999999999e-7 7.3153333333333335e-6], small/large = 0.07245056046659983
+trial 17 results [5.676666666666667e-7 7.210666666666666e-6], small/large = 0.07872596153846155
+trial 18 results [6.696666666666666e-7 7.547666666666666e-6], small/large = 0.08872499227134213
+trial 19 results [6.34e-7 7.2079999999999994e-6], small/large = 0.08795782463928968
+trial 20 results [7.443333333333333e-7 6.858333333333333e-6], small/large = 0.10852976913730256
+trial 21 results [7.31e-7 7.045333333333333e-6], small/large = 0.10375662376987131
+trial 22 results [7.926666666666666e-7 7.776333333333334e-6], small/large = 0.10193321616871703
+trial 23 results [8.156666666666668e-7 7.483333333333333e-6], small/large = 0.10899777282850781
+trial 24 results [7.963333333333334e-7 7.125666666666666e-6], small/large = 0.11175562520465923
+trial 25 results [8.42e-7 7.331333333333333e-6], small/large = 0.11484950441029373
+trial 26 results [1.0076666666666667e-6 7.588e-6], small/large = 0.13279739940256546
+trial 27 results [9.843333333333332e-7 7.788e-6], small/large = 0.1263910289334018
+trial 28 results [1.004e-6 6.919333333333333e-6], small/large = 0.14510068407361018
+trial 29 results [9.803333333333334e-7 7.679333333333333e-6], small/large = 0.12765865092455944
+trial 30 results [1.1543333333333333e-6 7.699333333333334e-6], small/large = 0.1499264005541605
+trial 31 results [1.105e-6 7.056333333333333e-6], small/large = 0.15659691057678682
+trial 32 results [1.1033333333333335e-6 7.009333333333334e-6], small/large = 0.15740916872741106
+trial 33 results [1.1553333333333334e-6 6.971666666666666e-6], small/large = 0.16571838393497493
+trial 34 results [1.3676666666666664e-6 7.507666666666667e-6], small/large = 0.18216933801003415
+trial 35 results [1.2906666666666668e-6 8.039333333333335e-6], small/large = 0.16054399203914088
+trial 36 results [1.3089999999999999e-6 6.876e-6], small/large = 0.1903723094822571
+trial 37 results [1.3550000000000004e-6 7.466333333333333e-6], small/large = 0.18148131613018442
+trial 38 results [1.42e-6 7.516999999999999e-6], small/large = 0.188905148330451
+trial 39 results [1.4636666666666669e-6 7.784333333333334e-6], small/large = 0.18802723418832698
+trial 40 results [1.5679999999999999e-6 7.840333333333334e-6], small/large = 0.19999149696016325
+trial 41 results [1.5973333333333333e-6 7.337e-6], small/large = 0.2177093271546045
+trial 42 results [1.7323333333333331e-6 8.079666666666667e-6], small/large = 0.21440653492305786
+trial 43 results [1.7149999999999999e-6 7.711666666666666e-6], small/large = 0.22239031770045387
+trial 44 results [1.6789999999999997e-6 7.929666666666666e-6], small/large = 0.21173651687754844
+trial 45 results [1.7773333333333333e-6 7.757666666666667e-6], small/large = 0.22910669015597473
+trial 46 results [1.9353333333333333e-6 7.801666666666667e-6], small/large = 0.24806665242469558
+trial 47 results [2.1106666666666666e-6 7.637333333333334e-6], small/large = 0.2763617318435754
+trial 48 results [1.8736666666666668e-6 7.601999999999999e-6], small/large = 0.2464702271332106
+trial 49 results [2.0539999999999997e-6 7.418666666666666e-6], small/large = 0.27686915887850466
+trial 50 results [2.0683333333333336e-6 7.895666666666666e-6], small/large = 0.2619580360535315
+trial 51 results [2.247333333333333e-6 7.483666666666667e-6], small/large = 0.3002984276869627
+trial 52 results [2.1706666666666664e-6 7.8e-6], small/large = 0.27829059829059827
+trial 53 results [2.2959999999999997e-6 7.421666666666666e-6], small/large = 0.3093644733887267
+trial 54 results [2.3543333333333335e-6 7.867666666666666e-6], small/large = 0.29924162182773384
+trial 55 results [3.817e-6 8.721333333333334e-6], small/large = 0.43766243693624823
+trial 56 results [2.414333333333333e-6 7.96e-6], small/large = 0.30330820770519257
+trial 57 results [2.5733333333333334e-6 8.058000000000001e-6], small/large = 0.31935136923967894
+trial 58 results [2.6546666666666668e-6 8.073e-6], small/large = 0.3288327346298361
+trial 59 results [2.815666666666667e-6 8.520666666666666e-6], small/large = 0.33045145137313203
+trial 60 results [2.7380000000000003e-6 7.958666666666667e-6], small/large = 0.34402747528899313
+trial 61 results [2.8516666666666668e-6 8.224000000000001e-6], small/large = 0.3467493514915693
+trial 62 results [2.9640000000000003e-6 8.531333333333333e-6], small/large = 0.3474251777760413
+trial 63 results [3.1963333333333336e-6 8.956333333333333e-6], small/large = 0.3568796754624289
+trial 64 results [3.1240000000000005e-6 8.361333333333332e-6], small/large = 0.37362462127252444
+trial 65 results [3.3e-6 8.537333333333332e-6], small/large = 0.386537560518507
+trial 66 results [3.265e-6 8.796333333333334e-6], small/large = 0.3711773845162757
+trial 67 results [3.6639999999999996e-6 8.796666666666668e-6], small/large = 0.4165214096248578
+trial 68 results [3.3536666666666668e-6 8.13e-6], small/large = 0.41250512505125053
+trial 69 results [3.602333333333333e-6 9.045333333333335e-6], small/large = 0.39825324292452824
+trial 70 results [3.588333333333333e-6 9.325666666666666e-6], small/large = 0.38478035529184684
+trial 71 results [4.034666666666667e-6 9.081e-6], small/large = 0.4442976177366664
+trial 72 results [3.7246666666666667e-6 8.245e-6], small/large = 0.45174853446533253
+trial 73 results [3.9656666666666674e-6 8.611333333333332e-6], small/large = 0.4605171479445693
+trial 74 results [4.016333333333333e-6 8.462000000000001e-6], small/large = 0.4746316867564799
+trial 75 results [4.209e-6 9.257333333333332e-6], small/large = 0.4546665706466946
+trial 76 results [4.067333333333333e-6 8.355666666666667e-6], small/large = 0.4867754418159333
+trial 77 results [4.360333333333334e-6 8.638333333333333e-6], small/large = 0.5047655797800502
+trial 78 results [4.485333333333333e-6 9.344666666666667e-6], small/large = 0.4799885852892915
+trial 79 results [4.5786666666666665e-6 8.98e-6], small/large = 0.5098737936154417
+trial 80 results [4.505e-6 8.587666666666666e-6], small/large = 0.5245895276171254
+trial 81 results [4.74e-6 9.253333333333333e-6], small/large = 0.5122478386167147
+trial 82 results [4.7909999999999995e-6 9.187333333333333e-6], small/large = 0.521478847688847
+trial 83 results [5.084666666666666e-6 9.586666666666667e-6], small/large = 0.5303894297635604
+trial 84 results [4.901e-6 8.682000000000001e-6], small/large = 0.5645012669891729
+trial 85 results [5.291666666666666e-6 9.454666666666668e-6], small/large = 0.5596883373290085
+trial 86 results [5.184e-6 9.448333333333334e-6], small/large = 0.5486681954489327
+trial 87 results [5.499333333333333e-6 9.738666666666667e-6], small/large = 0.5646905805038335
+trial 88 results [5.3093333333333335e-6 9.049e-6], small/large = 0.5867314988764873
+trial 89 results [5.656999999999999e-6 9.671000000000001e-6], small/large = 0.5849446799710474
+trial 90 results [5.621333333333333e-6 9.917e-6], small/large = 0.566838089475984
+trial 91 results [5.996666666666666e-6 1.0075000000000001e-5], small/large = 0.5952026468155499
+trial 92 results [5.8256666666666666e-6 9.598e-6], small/large = 0.6069667291796902
+trial 93 results [6.3573333333333335e-6 1.0000666666666667e-5], small/large = 0.6356909539364042
+trial 94 results [6.093666666666666e-6 1.015e-5], small/large = 0.6003612479474548
+trial 95 results [6.485999999999999e-6 1.0338333333333334e-5], small/large = 0.627373851362244
+trial 96 results [6.232000000000001e-6 1.0023e-5], small/large = 0.6217699291629253
+trial 97 results [6.953e-6 1.0160666666666666e-5], small/large = 0.6843054917656323
+trial 98 results [6.610999999999999e-6 1.0487999999999999e-5], small/large = 0.6303394355453852
+trial 99 results [7.100666666666667e-6 1.0822e-5], small/large = 0.6561325694572784
+trial 100 results [6.77e-6 9.672e-6], small/large = 0.6999586435070306
+trial 101 results [7.208666666666667e-6 1.0589333333333332e-5], small/large = 0.6807479224376732
+trial 102 results [7.0503333333333335e-6 1.0337333333333334e-5], small/large = 0.6820263123952018
+trial 103 results [7.661333333333332e-6 1.0675333333333334e-5], small/large = 0.7176668956472865
+trial 104 results [7.2440000000000004e-6 1.0616666666666668e-5], small/large = 0.6823233908948194
+trial 105 results [7.779333333333334e-6 1.0578e-5], small/large = 0.7354257263502868
+trial 106 results [7.644333333333332e-6 1.1126666666666668e-5], small/large = 0.6870281605751946
+trial 107 results [8.105666666666666e-6 1.1237000000000001e-5], small/large = 0.7213372489691791
+trial 108 results [7.759666666666668e-6 1.0965000000000001e-5], small/large = 0.7076759385924913
+trial 109 results [8.235666666666666e-6 1.1241999999999998e-5], small/large = 0.732580205182945
+trial 110 results [8.209666666666665e-6 1.0907e-5], small/large = 0.7526970447113472
+trial 111 results [8.674333333333334e-6 1.1724666666666666e-5], small/large = 0.7398362426792519
+trial 112 results [8.393666666666667e-6 1.0456000000000001e-5], small/large = 0.8027607753124203
+trial 113 results [8.830999999999999e-6 1.1006666666666666e-5], small/large = 0.8023319200484554
+trial 114 results [8.804333333333335e-6 1.1147333333333333e-5], small/large = 0.7898152024400457
+trial 115 results [9.640666666666666e-6 1.1889e-5], small/large = 0.8108896178540387
+trial 116 results [9.301666666666668e-6 1.1702666666666666e-5], small/large = 0.794833086476017
+trial 117 results [9.605333333333333e-6 1.1051333333333334e-5], small/large = 0.8691560596006515
+trial 118 results [9.680333333333335e-6 1.1540666666666668e-5], small/large = 0.8388019178556987
+trial 119 results [9.999e-6 1.2035e-5], small/large = 0.8308267552970502
+trial 120 results [9.661333333333334e-6 1.1260333333333333e-5], small/large = 0.8579970989609544
+trial 121 results [1.0340666666666667e-5 1.1677333333333333e-5], small/large = 0.8855332267641015
+trial 122 results [1.0068666666666667e-5 1.2282333333333334e-5], small/large = 0.8197682307921947
+trial 123 results [1.0569e-5 1.2093333333333333e-5], small/large = 0.8739525909592062
+trial 124 results [1.0320666666666666e-5 1.1545333333333333e-5], small/large = 0.8939253955422104
+trial 125 results [1.0999333333333333e-5 1.1955666666666666e-5], small/large = 0.9200100370814398
+trial 126 results [1.0882333333333334e-5 1.2121333333333334e-5], small/large = 0.8977835221647784
+trial 127 results [1.1391333333333334e-5 1.2815666666666667e-5], small/large = 0.8888599890758707
+trial 128 results [1.1018999999999999e-5 1.1971333333333333e-5], small/large = 0.9204488500306286
+b = [0.6790401087998774 0.6289389442604968 0.3916247280649307
+ 0.5218077595532538 0.5454071210573102 0.4687572724411117
+ 0.6096534921303193 0.5833260752666233 0.335959813474659]
+b2 = [0.6790401087998774 0.6289389442604968 0.3916247280649307
+ 0.5218077595532538 0.5454071210573102 0.4687572724411117
+ 0.6096534921303193 0.5833260752666233 0.335959813474659]
+trial 1 size 1 results:
+elapsed_time = 2.09e-7
+trial 1 size 2 results:
+elapsed_time = 6.1e-7
+trial 1 size 3 results:
+elapsed_time = 6.5e-7
+trial 1 size 4 results:
+elapsed_time = 6.27e-7
+trial 1 size 5 results:
+elapsed_time = 7.46e-7
+trial 1 size 6 results:
+elapsed_time = 8.86e-7
+trial 1 size 7 results:
+elapsed_time = 1.082e-6
+trial 1 size 8 results:
+elapsed_time = 1.097e-6
+trial 1 size 9 results:
+elapsed_time = 1.479e-6
+trial 1 size 10 results:
+elapsed_time = 1.753e-6
+trial 1 size 11 results:
+elapsed_time = 2.19e-6
+trial 1 size 12 results:
+elapsed_time = 2.107e-6
+trial 1 size 13 results:
+elapsed_time = 2.688e-6
+trial 1 size 14 results:
+elapsed_time = 3.253e-6
+trial 1 size 15 results:
+elapsed_time = 3.968e-6
+trial 1 size 16 results:
+elapsed_time = 3.69e-6
+trial 1 size 17 results:
+elapsed_time = 4.935e-6
+trial 1 size 18 results:
+elapsed_time = 5.744e-6
+trial 1 size 19 results:
+elapsed_time = 6.784e-6
+trial 1 size 20 results:
+elapsed_time = 6.441e-6
+trial 1 size 21 results:
+elapsed_time = 8.695e-6
+trial 1 size 22 results:
+elapsed_time = 9.17e-6
+trial 1 size 23 results:
+elapsed_time = 1.12e-5
+trial 1 size 24 results:
+elapsed_time = 1.027e-5
+trial 1 size 25 results:
+elapsed_time = 1.3258e-5
+trial 1 size 26 results:
+elapsed_time = 1.4619e-5
+trial 1 size 27 results:
+elapsed_time = 1.6576e-5
+trial 1 size 28 results:
+elapsed_time = 1.5537e-5
+trial 1 size 29 results:
+elapsed_time = 1.9709e-5
+trial 1 size 30 results:
+elapsed_time = 2.1177e-5
+trial 1 size 31 results:
+elapsed_time = 2.4204e-5
+trial 1 size 32 results:
+elapsed_time = 2.2795e-5
+trial 1 size 33 results:
+elapsed_time = 4.1861e-5
+trial 1 size 34 results:
+elapsed_time = 4.5037e-5
+trial 1 size 35 results:
+elapsed_time = 5.1424e-5
+trial 1 size 36 results:
+elapsed_time = 4.7848e-5
+trial 1 size 37 results:
+elapsed_time = 5.862e-5
+trial 1 size 38 results:
+elapsed_time = 6.0653e-5
+trial 1 size 39 results:
+elapsed_time = 6.9672e-5
+trial 1 size 40 results:
+elapsed_time = 6.4481e-5
+trial 1 size 41 results:
+elapsed_time = 7.7214e-5
+trial 1 size 42 results:
+elapsed_time = 8.0423e-5
+trial 1 size 43 results:
+elapsed_time = 8.9914e-5
+trial 1 size 44 results:
+elapsed_time = 8.4443e-5
+trial 1 size 45 results:
+elapsed_time = 0.000100182
+trial 1 size 46 results:
+elapsed_time = 0.000103275
+trial 1 size 47 results:
+elapsed_time = 0.000114848
+trial 1 size 48 results:
+elapsed_time = 0.000108654
+trial 1 size 49 results:
+elapsed_time = 9.2159e-5
+trial 1 size 50 results:
+elapsed_time = 9.3317e-5
+trial 1 size 51 results:
+elapsed_time = 0.000107173
+trial 1 size 52 results:
+elapsed_time = 0.000131085
+trial 1 size 53 results:
+elapsed_time = 0.000112765
+trial 1 size 54 results:
+elapsed_time = 0.000115989
+trial 1 size 55 results:
+elapsed_time = 0.000129229
+trial 1 size 56 results:
+elapsed_time = 0.000121359
+trial 1 size 57 results:
+elapsed_time = 0.000138555
+trial 1 size 58 results:
+elapsed_time = 0.000142732
+trial 1 size 59 results:
+elapsed_time = 0.000159689
+trial 1 size 60 results:
+elapsed_time = 0.000149898
+trial 1 size 61 results:
+elapsed_time = 0.00017076
+trial 1 size 62 results:
+elapsed_time = 0.000243082
+trial 1 size 63 results:
+elapsed_time = 0.00019578
+trial 1 size 64 results:
+elapsed_time = 0.000168073
+trial 1 size 65 results:
+elapsed_time = 0.000191058
+trial 1 size 66 results:
+elapsed_time = 0.000194326
+trial 1 size 67 results:
+elapsed_time = 0.00021504
+trial 1 size 68 results:
+elapsed_time = 0.000203629
+trial 1 size 69 results:
+elapsed_time = 0.000231492
+trial 1 size 70 results:
+elapsed_time = 0.000231803
+trial 1 size 71 results:
+elapsed_time = 0.000258703
+trial 1 size 72 results:
+elapsed_time = 0.000239557
+trial 1 size 73 results:
+elapsed_time = 0.000269898
+trial 1 size 74 results:
+elapsed_time = 0.000272219
+trial 1 size 75 results:
+elapsed_time = 0.000302818
+trial 1 size 76 results:
+elapsed_time = 0.000277345
+trial 1 size 77 results:
+elapsed_time = 0.000315889
+trial 1 size 78 results:
+elapsed_time = 0.0003167
+trial 1 size 79 results:
+elapsed_time = 0.000363784
+trial 1 size 80 results:
+elapsed_time = 0.000322
+trial 1 size 81 results:
+elapsed_time = 0.000366484
+trial 1 size 82 results:
+elapsed_time = 0.000367566
+trial 1 size 83 results:
+elapsed_time = 0.00040255
+trial 1 size 84 results:
+elapsed_time = 0.000372391
+trial 1 size 85 results:
+elapsed_time = 0.000418379
+trial 1 size 86 results:
+elapsed_time = 0.000418959
+trial 1 size 87 results:
+elapsed_time = 0.000462696
+trial 1 size 88 results:
+elapsed_time = 0.000460083
+trial 1 size 89 results:
+elapsed_time = 0.000484743
+trial 1 size 90 results:
+elapsed_time = 0.000495543
+trial 1 size 91 results:
+elapsed_time = 0.000524239
+trial 1 size 92 results:
+elapsed_time = 0.000486873
+trial 1 size 93 results:
+elapsed_time = 0.000555022
+trial 1 size 94 results:
+elapsed_time = 0.000543194
+trial 1 size 95 results:
+elapsed_time = 0.000596621
+trial 1 size 96 results:
+elapsed_time = 0.000571018
+trial 2 size 1 results:
+elapsed_time = 5.53e-7
+trial 2 size 2 results:
+elapsed_time = 5.66e-7
+trial 2 size 3 results:
+elapsed_time = 5.43e-7
+trial 2 size 4 results:
+elapsed_time = 6.64e-7
+trial 2 size 5 results:
+elapsed_time = 7.77e-7
+trial 2 size 6 results:
+elapsed_time = 9.26e-7
+trial 2 size 7 results:
+elapsed_time = 1.082e-6
+trial 2 size 8 results:
+elapsed_time = 1.062e-6
+trial 2 size 9 results:
+elapsed_time = 1.462e-6
+trial 2 size 10 results:
+elapsed_time = 1.945e-6
+trial 2 size 11 results:
+elapsed_time = 2.186e-6
+trial 2 size 12 results:
+elapsed_time = 2.049e-6
+trial 2 size 13 results:
+elapsed_time = 2.812e-6
+trial 2 size 14 results:
+elapsed_time = 3.542e-6
+trial 2 size 15 results:
+elapsed_time = 3.927e-6
+trial 2 size 16 results:
+elapsed_time = 3.692e-6
+trial 2 size 17 results:
+elapsed_time = 4.964e-6
+trial 2 size 18 results:
+elapsed_time = 5.719e-6
+trial 2 size 19 results:
+elapsed_time = 6.797e-6
+trial 2 size 20 results:
+elapsed_time = 6.443e-6
+trial 2 size 21 results:
+elapsed_time = 8.479e-6
+trial 2 size 22 results:
+elapsed_time = 9.271e-6
+trial 2 size 23 results:
+elapsed_time = 1.1219e-5
+trial 2 size 24 results:
+elapsed_time = 1.027e-5
+trial 2 size 25 results:
+elapsed_time = 1.3224e-5
+trial 2 size 26 results:
+elapsed_time = 1.4531e-5
+trial 2 size 27 results:
+elapsed_time = 1.6623e-5
+trial 2 size 28 results:
+elapsed_time = 1.5535e-5
+trial 2 size 29 results:
+elapsed_time = 1.9719e-5
+trial 2 size 30 results:
+elapsed_time = 2.1035e-5
+trial 2 size 31 results:
+elapsed_time = 2.4452e-5
+trial 2 size 32 results:
+elapsed_time = 2.2583e-5
+trial 2 size 33 results:
+elapsed_time = 2.7439e-5
+trial 2 size 34 results:
+elapsed_time = 2.9493e-5
+trial 2 size 35 results:
+elapsed_time = 3.3516e-5
+trial 2 size 36 results:
+elapsed_time = 3.1359e-5
+trial 2 size 37 results:
+elapsed_time = 3.8287e-5
+trial 2 size 38 results:
+elapsed_time = 3.9803e-5
+trial 2 size 39 results:
+elapsed_time = 4.5507e-5
+trial 2 size 40 results:
+elapsed_time = 4.2182e-5
+trial 2 size 41 results:
+elapsed_time = 5.0487e-5
+trial 2 size 42 results:
+elapsed_time = 5.2833e-5
+trial 2 size 43 results:
+elapsed_time = 5.9022e-5
+trial 2 size 44 results:
+elapsed_time = 5.5224e-5
+trial 2 size 45 results:
+elapsed_time = 6.5537e-5
+trial 2 size 46 results:
+elapsed_time = 6.7633e-5
+trial 2 size 47 results:
+elapsed_time = 7.531e-5
+trial 2 size 48 results:
+elapsed_time = 7.1027e-5
+trial 2 size 49 results:
+elapsed_time = 8.4144e-5
+trial 2 size 50 results:
+elapsed_time = 8.5204e-5
+trial 2 size 51 results:
+elapsed_time = 9.813e-5
+trial 2 size 52 results:
+elapsed_time = 9.0398e-5
+trial 2 size 53 results:
+elapsed_time = 0.000103068
+trial 2 size 54 results:
+elapsed_time = 0.000105958
+trial 2 size 55 results:
+elapsed_time = 0.000117924
+trial 2 size 56 results:
+elapsed_time = 0.000110871
+trial 2 size 57 results:
+elapsed_time = 0.000126508
+trial 2 size 58 results:
+elapsed_time = 0.000130453
+trial 2 size 59 results:
+elapsed_time = 0.000145893
+trial 2 size 60 results:
+elapsed_time = 0.000136923
+trial 2 size 61 results:
+elapsed_time = 0.000156117
+trial 2 size 62 results:
+elapsed_time = 0.000158607
+trial 2 size 63 results:
+elapsed_time = 0.000178908
+trial 2 size 64 results:
+elapsed_time = 0.000168021
+trial 2 size 65 results:
+elapsed_time = 0.00019114
+trial 2 size 66 results:
+elapsed_time = 0.000194422
+trial 2 size 67 results:
+elapsed_time = 0.000215099
+trial 2 size 68 results:
+elapsed_time = 0.00020368
+trial 2 size 69 results:
+elapsed_time = 0.000231295
+trial 2 size 70 results:
+elapsed_time = 0.000262941
+trial 2 size 71 results:
+elapsed_time = 0.000258698
+trial 2 size 72 results:
+elapsed_time = 0.000239496
+trial 2 size 73 results:
+elapsed_time = 0.000270065
+trial 2 size 74 results:
+elapsed_time = 0.00027236
+trial 2 size 75 results:
+elapsed_time = 0.00031968
+trial 2 size 76 results:
+elapsed_time = 0.000277329
+trial 2 size 77 results:
+elapsed_time = 0.00031578
+trial 2 size 78 results:
+elapsed_time = 0.00031638
+trial 2 size 79 results:
+elapsed_time = 0.000347615
+trial 2 size 80 results:
+elapsed_time = 0.000322224
+trial 2 size 81 results:
+elapsed_time = 0.000366263
+trial 2 size 82 results:
+elapsed_time = 0.000382643
+trial 2 size 83 results:
+elapsed_time = 0.000402585
+trial 2 size 84 results:
+elapsed_time = 0.00037207
+trial 2 size 85 results:
+elapsed_time = 0.000418037
+trial 2 size 86 results:
+elapsed_time = 0.000418873
+trial 2 size 87 results:
+elapsed_time = 0.000462768
+trial 2 size 88 results:
+elapsed_time = 0.000428079
+trial 2 size 89 results:
+elapsed_time = 0.000484805
+trial 2 size 90 results:
+elapsed_time = 0.000478945
+trial 2 size 91 results:
+elapsed_time = 0.000524212
+trial 2 size 92 results:
+elapsed_time = 0.00048673
+trial 2 size 93 results:
+elapsed_time = 0.000554832
+trial 2 size 94 results:
+elapsed_time = 0.000543274
+trial 2 size 95 results:
+elapsed_time = 0.0005966
+trial 2 size 96 results:
+elapsed_time = 0.000554494
+trial 3 size 1 results:
+elapsed_time = 5.31e-7
+trial 3 size 2 results:
+elapsed_time = 6.81e-7
+trial 3 size 3 results:
+elapsed_time = 6.24e-7
+trial 3 size 4 results:
+elapsed_time = 6.32e-7
+trial 3 size 5 results:
+elapsed_time = 7.75e-7
+trial 3 size 6 results:
+elapsed_time = 9.19e-7
+trial 3 size 7 results:
+elapsed_time = 1.091e-6
+trial 3 size 8 results:
+elapsed_time = 1.138e-6
+trial 3 size 9 results:
+elapsed_time = 1.448e-6
+trial 3 size 10 results:
+elapsed_time = 1.814e-6
+trial 3 size 11 results:
+elapsed_time = 2.183e-6
+trial 3 size 12 results:
+elapsed_time = 2.015e-6
+trial 3 size 13 results:
+elapsed_time = 2.713e-6
+trial 3 size 14 results:
+elapsed_time = 3.249e-6
+trial 3 size 15 results:
+elapsed_time = 3.949e-6
+trial 3 size 16 results:
+elapsed_time = 3.748e-6
+trial 3 size 17 results:
+elapsed_time = 4.918e-6
+trial 3 size 18 results:
+elapsed_time = 5.672e-6
+trial 3 size 19 results:
+elapsed_time = 6.696e-6
+trial 3 size 20 results:
+elapsed_time = 6.425e-6
+trial 3 size 21 results:
+elapsed_time = 8.701e-6
+trial 3 size 22 results:
+elapsed_time = 9.223e-6
+trial 3 size 23 results:
+elapsed_time = 1.1179e-5
+trial 3 size 24 results:
+elapsed_time = 1.0319e-5
+trial 3 size 25 results:
+elapsed_time = 1.3437e-5
+trial 3 size 26 results:
+elapsed_time = 1.4522e-5
+trial 3 size 27 results:
+elapsed_time = 1.6768e-5
+trial 3 size 28 results:
+elapsed_time = 1.5565e-5
+trial 3 size 29 results:
+elapsed_time = 1.9699e-5
+trial 3 size 30 results:
+elapsed_time = 2.096e-5
+trial 3 size 31 results:
+elapsed_time = 2.4195e-5
+trial 3 size 32 results:
+elapsed_time = 2.262e-5
+trial 3 size 33 results:
+elapsed_time = 2.7401e-5
+trial 3 size 34 results:
+elapsed_time = 2.9536e-5
+trial 3 size 35 results:
+elapsed_time = 3.3496e-5
+trial 3 size 36 results:
+elapsed_time = 3.1332e-5
+trial 3 size 37 results:
+elapsed_time = 3.8334e-5
+trial 3 size 38 results:
+elapsed_time = 3.9928e-5
+trial 3 size 39 results:
+elapsed_time = 4.5595e-5
+trial 3 size 40 results:
+elapsed_time = 4.2156e-5
+trial 3 size 41 results:
+elapsed_time = 7.7753e-5
+trial 3 size 42 results:
+elapsed_time = 5.2599e-5
+trial 3 size 43 results:
+elapsed_time = 5.8751e-5
+trial 3 size 44 results:
+elapsed_time = 7.2368e-5
+trial 3 size 45 results:
+elapsed_time = 6.5356e-5
+trial 3 size 46 results:
+elapsed_time = 6.7336e-5
+trial 3 size 47 results:
+elapsed_time = 0.000107997
+trial 3 size 48 results:
+elapsed_time = 7.1041e-5
+trial 3 size 49 results:
+elapsed_time = 8.4071e-5
+trial 3 size 50 results:
+elapsed_time = 0.000100033
+trial 3 size 51 results:
+elapsed_time = 9.8029e-5
+trial 3 size 52 results:
+elapsed_time = 9.0436e-5
+trial 3 size 53 results:
+elapsed_time = 0.000103062
+trial 3 size 54 results:
+elapsed_time = 0.000105953
+trial 3 size 55 results:
+elapsed_time = 0.000117981
+trial 3 size 56 results:
+elapsed_time = 0.00011091
+trial 3 size 57 results:
+elapsed_time = 0.000126392
+trial 3 size 58 results:
+elapsed_time = 0.000130325
+trial 3 size 59 results:
+elapsed_time = 0.00014584
+trial 3 size 60 results:
+elapsed_time = 0.000136841
+trial 3 size 61 results:
+elapsed_time = 0.000156034
+trial 3 size 62 results:
+elapsed_time = 0.000158721
+trial 3 size 63 results:
+elapsed_time = 0.000178778
+trial 3 size 64 results:
+elapsed_time = 0.0001681
+trial 3 size 65 results:
+elapsed_time = 0.000191109
+trial 3 size 66 results:
+elapsed_time = 0.000237932
+trial 3 size 67 results:
+elapsed_time = 0.000214854
+trial 3 size 68 results:
+elapsed_time = 0.000203763
+trial 3 size 69 results:
+elapsed_time = 0.00023142
+trial 3 size 70 results:
+elapsed_time = 0.000232043
+trial 3 size 71 results:
+elapsed_time = 0.000258804
+trial 3 size 72 results:
+elapsed_time = 0.000273029
+trial 3 size 73 results:
+elapsed_time = 0.000269915
+trial 3 size 74 results:
+elapsed_time = 0.000272204
+trial 3 size 75 results:
+elapsed_time = 0.000303033
+trial 3 size 76 results:
+elapsed_time = 0.000277215
+trial 3 size 77 results:
+elapsed_time = 0.000335557
+trial 3 size 78 results:
+elapsed_time = 0.000316437
+trial 3 size 79 results:
+elapsed_time = 0.00034738
+trial 3 size 80 results:
+elapsed_time = 0.000321971
+trial 3 size 81 results:
+elapsed_time = 0.000366371
+trial 3 size 82 results:
+elapsed_time = 0.000367611
+trial 3 size 83 results:
+elapsed_time = 0.000402455
+trial 3 size 84 results:
+elapsed_time = 0.000372286
+trial 3 size 85 results:
+elapsed_time = 0.000418024
+trial 3 size 86 results:
+elapsed_time = 0.000419222
+trial 3 size 87 results:
+elapsed_time = 0.000462382
+trial 3 size 88 results:
+elapsed_time = 0.000428552
+trial 3 size 89 results:
+elapsed_time = 0.000484542
+trial 3 size 90 results:
+elapsed_time = 0.00047849
+trial 3 size 91 results:
+elapsed_time = 0.000524223
+trial 3 size 92 results:
+elapsed_time = 0.000487143
+trial 3 size 93 results:
+elapsed_time = 0.000555242
+trial 3 size 94 results:
+elapsed_time = 0.00054339
+trial 3 size 95 results:
+elapsed_time = 0.000596374
+trial 3 size 96 results:
+elapsed_time = 0.000554482
 printing matmat results
-trial 1 results [5.96e-7 2.868e-5], small/large = 0.02078103207810321
-trial 2 results [6.85e-7 1.143e-6], small/large = 0.5993000874890639
-trial 3 results [7.0e-7 1.658e-6], small/large = 0.42219541616405304
-trial 4 results [7.56e-7 1.0185e-5], small/large = 0.07422680412371134
-trial 5 results [9.24e-7 1.1111e-5], small/large = 0.08316083160831608
-trial 6 results [1.2e-6 1.0455e-5], small/large = 0.11477761836441892
-trial 7 results [1.297e-6 1.0431e-5], small/large = 0.12434090691208896
-trial 8 results [1.616e-6 1.1685e-5], small/large = 0.1382969619169876
-trial 9 results [1.774e-6 1.1468e-5], small/large = 0.15469131496337638
-trial 10 results [2.105e-6 1.062e-5], small/large = 0.198210922787194
-trial 11 results [2.344e-6 1.5846e-5], small/large = 0.14792376625015777
-trial 12 results [2.157e-6 2.1898e-5], small/large = 0.09850214631473193
-trial 13 results [3.845e-6 1.2994e-5], small/large = 0.29590580267815914
-trial 14 results [4.817e-6 1.4717e-5], small/large = 0.3273085547326221
-trial 15 results [4.376e-6 1.338e-5], small/large = 0.32705530642750374
-trial 16 results [4.215e-6 1.6869e-5], small/large = 0.2498666192423973
-trial 17 results [5.456e-6 1.5547e-5], small/large = 0.350935871872387
-trial 18 results [6.311e-6 1.7746e-5], small/large = 0.3556294376197453
-trial 19 results [7.495e-6 1.9025e-5], small/large = 0.3939553219448094
-trial 20 results [7.015e-6 1.6252e-5], small/large = 0.43163918286980063
-trial 21 results [1.2455e-5 1.8616e-5], small/large = 0.6690481306403094
-trial 22 results [1.0362e-5 1.7539e-5], small/large = 0.590797650949313
-trial 23 results [1.1984e-5 3.272e-5], small/large = 0.36625916870415653
-trial 24 results [1.5794e-5 2.7455e-5], small/large = 0.5752686213804408
-trial 25 results [1.8841e-5 2.0799e-5], small/large = 0.9058608586951297
-trial 26 results [1.9607e-5 2.2694e-5], small/large = 0.863972856261567
-trial 27 results [2.2181e-5 2.3778e-5], small/large = 0.9328370762890067
-trial 28 results [2.3365e-5 2.5254e-5], small/large = 0.92519996832185
-trial 29 results [2.9293e-5 2.631e-5], small/large = 1.1133789433675407
-trial 30 results [2.3122e-5 2.5585e-5], small/large = 0.9037326558530389
-trial 31 results [2.6994e-5 2.9863e-5], small/large = 0.9039279375816228
-trial 32 results [3.151e-5 3.4242e-5], small/large = 0.9202149407160797
-trial 33 results [3.8548e-5 3.0532e-5], small/large = 1.2625442159046247
-trial 34 results [4.0559e-5 3.1927e-5], small/large = 1.2703667742036522
-trial 35 results [4.5669e-5 3.2869e-5], small/large = 1.389424685874228
-trial 36 results [4.0522e-5 3.2343e-5], small/large = 1.2528831586432922
-trial 37 results [5.7483e-5 3.5891e-5], small/large = 1.6015992867292637
-trial 38 results [4.3594e-5 4.7593e-5], small/large = 0.9159750383459753
-trial 39 results [4.9515e-5 4.0232e-5], small/large = 1.230736726983496
-trial 40 results [6.4635e-5 5.8691e-5], small/large = 1.1012761752227769
-trial 41 results [9.9173e-5 4.8584e-5], small/large = 2.0412687304462374
-trial 42 results [7.4902e-5 4.1324e-5], small/large = 1.8125544477785305
-trial 43 results [8.2362e-5 5.0848e-5], small/large = 1.6197687224669604
-trial 44 results [8.0359e-5 4.2085e-5], small/large = 1.9094451704882973
-trial 45 results [9.1664e-5 4.8084e-5], small/large = 1.906330588137426
-trial 46 results [9.6303e-5 5.6725e-5], small/large = 1.6977170559717938
-trial 47 results [0.000133808 6.6555e-5], small/large = 2.010487566674179
-trial 48 results [0.000130856 6.0883e-5], small/large = 2.1493027610334576
-trial 49 results [0.000109639 5.1853e-5], small/large = 2.11441960928008
-trial 50 results [0.000108894 5.5719e-5], small/large = 1.9543423248802025
-trial 51 results [0.000125457 6.4011e-5], small/large = 1.9599287622439894
-trial 52 results [0.000156998 7.1618e-5], small/large = 2.192158395933983
-trial 53 results [0.000131245 6.0489e-5], small/large = 2.169733339946106
-trial 54 results [0.000184288 8.0215e-5], small/large = 2.2974256685158636
-trial 55 results [0.000201767 8.7445e-5], small/large = 2.307358911315684
-trial 56 results [0.000140899 6.9592e-5], small/large = 2.024643637199678
-trial 57 results [0.000159143 7.1395e-5], small/large = 2.2290496533370683
-trial 58 results [0.000164787 7.0957e-5], small/large = 2.3223501557281168
-trial 59 results [0.000245857 9.8414e-5], small/large = 2.4981913142439085
-trial 60 results [0.000228875 0.000106025], small/large = 2.158688988446121
-trial 61 results [0.0001919 8.1431e-5], small/large = 2.356596382213162
-trial 62 results [0.000190879 8.8231e-5], small/large = 2.1634006188301163
-trial 63 results [0.000207658 9.4121e-5], small/large = 2.206287651002433
-trial 64 results [0.000194928 9.4031e-5], small/large = 2.0730184726313663
-trial 65 results [0.000228846 0.001046411], small/large = 0.2186960955112284
-trial 66 results [0.000631744 7.1683e-5], small/large = 8.813024008481788
-trial 67 results [0.000677671 7.4306e-5], small/large = 9.12000376820176
-trial 68 results [0.000673284 7.5216e-5], small/large = 8.95134014039566
-trial 69 results [0.000723834 8.0625e-5], small/large = 8.977786046511628
-trial 70 results [0.000770661 0.002513933], small/large = 0.3065559026433879
-trial 71 results [0.00088398 8.4662e-5], small/large = 10.441284165268952
-trial 72 results [0.000812229 0.002242113], small/large = 0.36226051050950603
-trial 73 results [0.000860984 8.8944e-5], small/large = 9.680068357618277
-trial 74 results [0.000898231 0.002242393], small/large = 0.40056805386031796
-trial 75 results [0.000938721 9.7002e-5], small/large = 9.67733654976186
-trial 76 results [0.000959577 0.00205797], small/large = 0.4662735608390792
-trial 77 results [0.000995919 9.9184e-5], small/large = 10.041125584771738
-trial 78 results [0.001044498 0.001899937], small/large = 0.5497540181595495
-trial 79 results [0.001091925 0.000104514], small/large = 10.447643377920663
-trial 80 results [0.001100996 0.000154406], small/large = 7.1305260158284
-trial 81 results [0.001157289 0.000112192], small/large = 10.315254207073588
-trial 82 results [0.001192463 0.003342223], small/large = 0.3567873837263402
-trial 83 results [0.00126636 0.000119063], small/large = 10.636049822362951
-trial 84 results [0.001269733 0.001723256], small/large = 0.7368220392094965
-trial 85 results [0.001315008 0.000139623], small/large = 9.418276358479622
-trial 86 results [0.001378326 0.001292507], small/large = 1.0663973193181933
-trial 87 results [0.001446455 0.000153761], small/large = 9.40716436547629
-trial 88 results [0.001461003 0.000190498], small/large = 7.669387605119214
-trial 89 results [0.001533021 0.001948596], small/large = 0.7867310617490748
-trial 90 results [0.001570643 0.000139815], small/large = 11.233723134141544
-trial 91 results [0.001663024 0.000137826], small/large = 12.066112344550376
-trial 92 results [0.001654025 0.000150927], small/large = 10.95910605789554
-trial 93 results [0.00174297 0.000578675], small/large = 3.0120015552771418
-trial 94 results [0.001808402 0.000151449], small/large = 11.940666494991712
-trial 95 results [0.001881699 0.001005356], small/large = 1.8716743123828772
-trial 96 results [0.00186442 0.0001506], small/large = 12.379946879150067
-trial 97 results [0.00198664 0.000155486], small/large = 12.776970273851022
-trial 98 results [0.002015028 0.000163369], small/large = 12.334212733137866
-trial 99 results [0.002146495 0.000167471], small/large = 12.817114604916672
-trial 100 results [0.002101149 0.000172224], small/large = 12.20009406354515
-trial 101 results [0.002234847 0.000172416], small/large = 12.961946687082404
-trial 102 results [0.002283592 0.00018311], small/large = 12.471148489978702
-trial 103 results [0.002386331 0.000189777], small/large = 12.574395211221592
-trial 104 results [0.00238578 0.000192828], small/large = 12.372580745534881
-trial 105 results [0.002489329 0.000193747], small/large = 12.84834861959153
-trial 106 results [0.00254145 0.000202631], small/large = 12.542256614239676
-trial 107 results [0.002682172 0.000206101], small/large = 13.013871839534985
-trial 108 results [0.002665385 0.002482104], small/large = 1.0738409832948177
-trial 109 results [0.002799465 0.000213345], small/large = 13.121774590452084
-trial 110 results [0.002856175 0.006374558], small/large = 0.4480585163708605
-trial 111 results [0.002988303 0.000374274], small/large = 7.984265538081726
-trial 112 results [0.002964855 0.000227045], small/large = 13.058446563456584
-trial 113 results [0.003128897 0.000233803], small/large = 13.382621266621898
-trial 114 results [0.003162021 0.00024146], small/large = 13.095423672657997
-trial 115 results [0.003322982 0.000248007], small/large = 13.398742777421605
-trial 116 results [0.003266938 0.000274494], small/large = 11.901673624924406
-trial 117 results [0.003428758 0.000271074], small/large = 12.64878962940009
-trial 118 results [0.003503197 0.00685063], small/large = 0.5113685894581959
-trial 119 results [0.003662577 0.000260178], small/large = 14.077197149643705
-trial 120 results [0.003627331 0.000268266], small/large = 13.521396673450978
-trial 121 results [0.00382911 0.000271736], small/large = 14.091287131627755
-trial 122 results [0.003866649 0.008814864], small/large = 0.4386510103842782
-trial 123 results [0.004038258 0.000287128], small/large = 14.064312780362766
-trial 124 results [0.00400083 0.000281946], small/large = 14.19005767061778
-trial 125 results [0.00419801 0.007695261], small/large = 0.545531853955311
-trial 126 results [0.004261412 0.000288598], small/large = 14.765909673663712
-trial 127 results [0.0044587 0.000293531], small/large = 15.1898777301205
-trial 128 results [0.004392489 0.000303419], small/large = 14.476644508089477
-trial 129 results [0.00459795 0.007344589], small/large = 0.6260323075940668
-trial 130 results [0.004663132 0.00032304], small/large = 14.435153541357108
-trial 131 results [0.004872546 0.010265051], small/large = 0.4746733357681321
-trial 132 results [0.004821419 0.002077732], small/large = 2.320520163331941
-trial 133 results [0.005055256 0.008791551], small/large = 0.5750129869007187
-trial 134 results [0.00510122 0.000378272], small/large = 13.485587090770661
-trial 135 results [0.005340184 0.003521036], small/large = 1.5166513492051772
-trial 136 results [0.005260204 0.000367727], small/large = 14.304644478104683
-trial 137 results [0.005514911 0.00036753], small/large = 15.005335618861045
-trial 138 results [0.005573451 0.002290506], small/large = 2.433283737305207
-trial 139 results [0.005808704 0.008241284], small/large = 0.7048299755232316
-trial 140 results [0.005745553 0.000402686], small/large = 14.268072393875126
-trial 141 results [0.006003029 0.008053061], small/large = 0.7454344379112489
-trial 142 results [0.006078312 0.007740841], small/large = 0.785226308097531
-trial 143 results [0.006307497 0.000425127], small/large = 14.836735845994253
-trial 144 results [0.006245699 0.000432791], small/large = 14.431212756272659
-trial 145 results [0.006538599 0.000503908], small/large = 12.97577930892147
-trial 146 results [0.006593743 0.00187024], small/large = 3.525613290272906
-trial 147 results [0.006866292 0.011708742], small/large = 0.586424399820237
-trial 148 results [0.00674002 0.000591852], small/large = 11.388015922899644
-trial 149 results [0.007068906 0.005935182], small/large = 1.191017562730174
-trial 150 results [0.007123178 0.005244806], small/large = 1.3581394621650447
-trial 151 results [0.007419467 0.000809343], small/large = 9.167271478223695
-trial 152 results [0.00738117 0.009482071], small/large = 0.7784343736721652
-trial 153 results [0.007665189 0.000483394], small/large = 15.857021394555995
-trial 154 results [0.007713395 0.006638778], small/large = 1.1618696995139768
-trial 155 results [0.008034135 0.000508003], small/large = 15.815132981498138
-trial 156 results [0.007925846 0.001613098], small/large = 4.913431174051421
-trial 157 results [0.00829241 0.010887985], small/large = 0.7616110786339254
-trial 158 results [0.008315764 0.000525284], small/large = 15.830986666260538
-trial 159 results [0.008679456 0.004799158], small/large = 1.8085372475755122
-trial 160 results [0.008522184 0.002009149], small/large = 4.241688396430528
-trial 161 results [0.008947258 0.003488869], small/large = 2.564515320007716
-trial 162 results [0.008947688 0.00381355], small/large = 2.3462883664826735
-trial 163 results [0.009324097 0.003094949], small/large = 3.012681953725247
-trial 164 results [0.00939132 0.003432722], small/large = 2.7358230582027905
-trial 165 results [0.009640926 0.002933447], small/large = 3.2865519642932015
-trial 166 results [0.009666853 0.009782159], small/large = 0.988212622591802
-trial 167 results [0.010048545 0.000616547], small/large = 16.29810055032301
-trial 168 results [0.009940216 0.000649641], small/large = 15.301090910210409
-trial 169 results [0.010362972 0.005585111], small/large = 1.8554639290069614
-trial 170 results [0.010331164 0.000657941], small/large = 15.7022650967184
-trial 171 results [0.010841949 0.0052224], small/large = 2.0760472196691175
-trial 172 results [0.010626849 0.003900499], small/large = 2.724484482626454
-trial 173 results [0.011125461 0.001357269], small/large = 8.196946220682857
-trial 174 results [0.011119597 0.000705289], small/large = 15.766015066164368
-trial 175 results [0.011538364 0.001110465], small/large = 10.390569716290024
-trial 176 results [0.011367874 0.00076627], small/large = 14.835337413705352
-trial 177 results [0.011815451 0.000732526], small/large = 16.129736009370315
-trial 178 results [0.01189434 0.005120805], small/large = 2.3227480835532694
-trial 179 results [0.012368384 0.007045343], small/large = 1.7555403619099879
-trial 180 results [0.01215817 0.000756787], small/large = 16.065511167607266
-trial 181 results [0.012829693 0.000823734], small/large = 15.575043642729327
-trial 182 results [0.012732794 0.000786348], small/large = 16.19231434428523
-trial 183 results [0.013189046 0.004524139], small/large = 2.9152610032538786
-trial 184 results [0.01303148 0.004703218], small/large = 2.7707582340431594
-trial 185 results [0.013630485 0.000835864], small/large = 16.30706071801154
-trial 186 results [0.013582223 0.007022694], small/large = 1.9340473897908692
-trial 187 results [0.014092457 0.002233648], small/large = 6.309166439832954
-trial 188 results [0.01387999 0.001191707], small/large = 11.647149844718543
-trial 189 results [0.01439127 0.00085573], small/large = 16.81753590501677
-trial 190 results [0.014466615 0.000850112], small/large = 17.01730477866446
-trial 191 results [0.015045792 0.00088798], small/large = 16.943841077501745
-trial 192 results [0.014775619 0.002685038], small/large = 5.502945954582394
-trial 193 results [0.015539273 0.001282662], small/large = 12.114861904383227
-trial 194 results [0.015420263 0.00106178], small/large = 14.523030194578915
-trial 195 results [0.016011859 0.004559549], small/large = 3.511719909140136
-trial 196 results [0.015744284 0.003780354], small/large = 4.164764463857089
-trial 197 results [0.016534918 0.000949416], small/large = 17.41588302703978
-trial 198 results [0.016392296 0.00265053], small/large = 6.1845351684380105
-trial 199 results [0.017001871 0.00217487], small/large = 7.817419431966049
-trial 200 results [0.016714862 0.000987947], small/large = 16.918784104815337
-trial 201 results [0.01763579 0.001816387], small/large = 9.709269004898184
-trial 202 results [0.017418636 0.001040808], small/large = 16.735686120783082
-trial 203 results [0.018052637 0.00106805], small/large = 16.902426852675436
-trial 204 results [0.017745743 0.001250228], small/large = 14.194005413412595
-trial 205 results [0.018635427 0.001098555], small/large = 16.96358124991466
-trial 206 results [0.018464975 0.001129819], small/large = 16.34330366191399
-trial 207 results [0.019147538 0.001111917], small/large = 17.22029432052932
-trial 208 results [0.018665191 0.002018643], small/large = 9.246405134538401
-trial 209 results [0.019754833 0.001226428], small/large = 16.1076174059953
-trial 210 results [0.019546118 0.001764462], small/large = 11.077664466562613
-trial 211 results [0.020244076 0.001202788], small/large = 16.8309594043173
-trial 212 results [0.019907949 0.001176692], small/large = 16.918572574641452
-trial 213 results [0.020889874 0.001478032], small/large = 14.13357356268335
-trial 214 results [0.020665302 0.001839835], small/large = 11.232149622112853
-trial 215 results [0.021431765 0.001482648], small/large = 14.455059461180266
-trial 216 results [0.021085129 0.001272473], small/large = 16.57019756018399
-trial 217 results [0.022067418 0.023818054], small/large = 0.926499620833843
-trial 218 results [0.021904977 0.002017893], small/large = 10.85537092402818
-trial 219 results [0.022652479 0.001261187], small/large = 17.961237310565362
-trial 220 results [0.022286037 0.001301035], small/large = 17.12946769302901
-trial 221 results [0.023294629 0.001334379], small/large = 17.457280877471845
-trial 222 results [0.023096725 0.00129597], small/large = 17.821959613262653
-trial 223 results [0.023946354 0.02011336], small/large = 1.190569551780508
-trial 224 results [0.023497637 0.002024306], small/large = 11.607749520082438
-trial 225 results [0.024605085 0.019696369], small/large = 1.2492193358075288
-trial 226 results [0.024370528 0.013721248], small/large = 1.7761159917815055
-trial 227 results [0.025161649 0.02382399], small/large = 1.0561475638631481
-trial 228 results [0.024762441 0.019466424], small/large = 1.2720590592293686
-trial 229 results [0.025916552 0.01644531], small/large = 1.5759235915893344
-trial 230 results [0.025664969 0.009970104], small/large = 2.574192706515398
-trial 231 results [0.02637068 0.00266674], small/large = 9.888733059840854
-trial 232 results [0.026154097 0.015943998], small/large = 1.640372571546986
-trial 233 results [0.027301158 0.016476217], small/large = 1.6570040319328154
-trial 234 results [0.026797716 0.002801922], small/large = 9.564047821459697
-trial 235 results [0.027908266 0.002397848], small/large = 11.638880362725244
-trial 236 results [0.027352262 0.009062799], small/large = 3.018081058622176
-trial 237 results [0.028294813 0.001821269], small/large = 15.535768192397718
-trial 238 results [0.028313404 0.007757388], small/large = 3.649863072467176
-trial 239 results [0.028209876 0.003343348], small/large = 8.437612835995536
-trial 240 results [0.028287993 0.011436182], small/large = 2.473552187259699
-trial 241 results [0.030369285 0.018964242], small/large = 1.6013972506784084
-trial 242 results [0.02993268 0.006494051], small/large = 4.609246216267781
-trial 243 results [0.030953641 0.001736683], small/large = 17.823426036876047
-trial 244 results [0.03043354 0.005606969], small/large = 5.427806003564492
-trial 245 results [0.031777833 0.001764889], small/large = 18.005570321986255
-trial 246 results [0.031489271 0.003935292], small/large = 8.00176225804845
-trial 247 results [0.032457357 0.001997498], small/large = 16.24900600651415
-trial 248 results [0.031850645 0.00432264], small/large = 7.368331621416541
-trial 249 results [0.03338577 0.006297002], small/large = 5.301851579529433
-trial 250 results [0.032928807 0.00335876], small/large = 9.803858269123127
-trial 251 results [0.034003889 0.010047566], small/large = 3.3842911805704983
-trial 252 results [0.033442263 0.002733993], small/large = 12.232022174160651
-trial 253 results [0.034998596 0.001962844], small/large = 17.830554032821762
-trial 254 results [0.03455477 0.024968962], small/large = 1.383908950640399
-trial 255 results [0.035942616 0.00346771], small/large = 10.364942858543532
-trial 256 results [0.035149551 0.002047538], small/large = 17.166739274191738
-trial 257 results [0.036032535 0.002230998], small/large = 16.150859391178297
-trial 258 results [0.036162361 0.009508248], small/large = 3.80326228344065
-trial 259 results [0.037274061 0.002092894], small/large = 17.80981788853138
-trial 260 results [0.038867219 0.003211625], small/large = 12.102041489899973
-trial 261 results [0.040353579 0.002036728], small/large = 19.812944585629502
-trial 262 results [0.040053105 0.003594304], small/large = 11.143493983814391
-trial 263 results [0.041531299 0.008855165], small/large = 4.6900649507942545
-trial 264 results [0.040576652 0.002101435], small/large = 19.30902074058917
-trial 265 results [0.042211806 0.003890667], small/large = 10.849503696923946
-trial 266 results [0.041845236 0.01061428], small/large = 3.942352754967836
-trial 267 results [0.0433482 0.003430177], small/large = 12.63730705441731
-trial 268 results [0.042616894 0.008778346], small/large = 4.854774920013407
-trial 269 results [0.044100795 0.022529429], small/large = 1.9574750429760115
-trial 270 results [0.043709556 0.008786808], small/large = 4.974452156004774
-trial 271 results [0.045378892 0.0071644], small/large = 6.33394171179722
-trial 272 results [0.044479992 0.008234075], small/large = 5.401941565992537
-trial 273 results [0.04608199 0.002378116], small/large = 19.37751985184911
-trial 274 results [0.045616397 0.002464582], small/large = 18.508776336108923
-trial 275 results [0.047308235 0.002399816], small/large = 19.71327593448831
-trial 276 results [0.046254779 0.002728952], small/large = 16.949649169351456
-trial 277 results [0.048088744 0.002721247], small/large = 17.6715836526416
-trial 278 results [0.047631071 0.00287488], small/large = 16.568020578250223
-trial 279 results [0.049315499 0.002776527], small/large = 17.761577323037017
-trial 280 results [0.048247102 0.002808288], small/large = 17.180254304401828
-trial 281 results [0.050178679 0.002605577], small/large = 19.258183120283913
-trial 282 results [0.049623692 0.002561103], small/large = 19.37590639657991
-trial 283 results [0.051558726 0.002667039], small/large = 19.331823044207454
-trial 284 results [0.050320671 0.002603302], small/large = 19.329555695036532
-trial 285 results [0.052350209 0.00261881], small/large = 19.99007526319206
-trial 286 results [0.051813315 0.008977715], small/large = 5.771325443055387
-trial 287 results [0.053686841 0.002637922], small/large = 20.351944068096024
-trial 288 results [0.053021632 0.00295056], small/large = 17.970023317607506
-trial 289 results [0.054547847 0.022582923], small/large = 2.415446707230946
-trial 290 results [0.05404914 0.022194597], small/large = 2.435238630374771
-trial 291 results [0.056005053 0.013239951], small/large = 4.230004552131651
-trial 292 results [0.054894302 0.019061533], small/large = 2.879847177034502
-trial 293 results [0.056850986 0.010037361], small/large = 5.663937562871356
-trial 294 results [0.056221703 0.002935351], small/large = 19.153315225334207
-trial 295 results [0.058410073 0.002918424], small/large = 20.01425187018747
-trial 296 results [0.06719672 0.004972764], small/large = 13.512951750776832
-trial 297 results [0.070592963 0.003126674], small/large = 22.57765376243254
-trial 298 results [0.069747745 0.009368898], small/large = 7.444605011176341
-trial 299 results [0.067947073 0.003078399], small/large = 22.072211237074857
-trial 300 results [0.04820122 0.004495533], small/large = 10.722025619653998
-trial 301 results [0.060885077 0.007628844], small/large = 7.98090470849843
-trial 302 results [0.059192549 0.00931201], small/large = 6.3565813395818935
-trial 303 results [0.06248155 0.004855156], small/large = 12.869112753534592
-trial 304 results [0.060443703 0.003254489], small/large = 18.572409677832677
-trial 305 results [0.06351008 0.00691779], small/large = 9.180689208547816
-trial 306 results [0.062653712 0.005492125], small/large = 11.407918064501446
-trial 307 results [0.065051381 0.003316296], small/large = 19.61567393260433
-trial 308 results [0.06268915 0.00417071], small/large = 15.030810101877137
-trial 309 results [0.064750682 0.003357258], small/large = 19.286775696118678
-trial 310 results [0.064390694 0.003431067], small/large = 18.7669590829908
-trial 311 results [0.068084996 0.004496305], small/large = 15.142432730875685
-trial 312 results [0.06657764 0.003696786], small/large = 18.009600772130167
-trial 313 results [0.068558742 0.003429304], small/large = 19.992028119991694
-trial 314 results [0.067647471 0.003895898], small/large = 17.36376850728638
-trial 315 results [0.070237038 0.00349981], small/large = 20.06881459279218
-trial 316 results [0.067687137 0.003526545], small/large = 19.19361216147816
-trial 317 results [0.07042335 0.003581804], small/large = 19.661419217801978
-trial 318 results [0.069843831 0.009683709], small/large = 7.21250824451664
-trial 319 results [0.072881678 0.012073894], small/large = 6.036302621175903
-trial 320 results [0.061468495 0.005631143], small/large = 10.915811408092459
-trial 321 results [0.073164235 0.0039323], small/large = 18.605964702591358
-trial 322 results [0.073615083 0.003770376], small/large = 19.524599933799703
-trial 323 results [0.075751436 0.005729056], small/large = 13.222324236313977
-trial 324 results [0.072851228 0.004236882], small/large = 17.194537870065773
-trial 325 results [0.056471074 0.003888329], small/large = 14.523224243627533
-trial 326 results [0.074898142 0.010022652], small/large = 7.47288661723464
-trial 327 results [0.078646496 0.006563601], small/large = 11.982217688125772
-trial 328 results [0.076008863 0.003992363], small/large = 19.038565130475362
-trial 329 results [0.085813746 0.004010165], small/large = 21.39905614856246
-trial 330 results [0.078623438 0.008084322], small/large = 9.725421377327624
-trial 331 results [0.080867751 0.004058665], small/large = 19.92471687118794
-trial 332 results [0.078966954 0.005329148], small/large = 14.817932247331095
-trial 333 results [0.082840428 0.004165749], small/large = 19.88608243079456
-trial 334 results [0.081461412 0.004142857], small/large = 19.663100126313797
-trial 335 results [0.084711626 0.009757319], small/large = 8.68185471849388
-trial 336 results [0.082261073 0.006028158], small/large = 13.64613750999891
-trial 337 results [0.085888223 0.004382651], small/large = 19.59732203180221
-trial 338 results [0.084701081 0.01243386], small/large = 6.812130826629864
-trial 339 results [0.087810579 0.01266906], small/large = 6.931104517620092
-trial 340 results [0.086504145 0.011788192], small/large = 7.338202923739281
-trial 341 results [0.089046694 0.011424034], small/large = 7.794680407988982
-trial 342 results [0.087054627 0.004436736], small/large = 19.621322296390858
-trial 343 results [0.090961857 0.007092603], small/large = 12.82489052326769
-trial 344 results [0.087949527 0.004806138], small/large = 18.299417744559147
-trial 345 results [0.092262588 0.004570693], small/large = 20.18568912854134
-trial 346 results [0.091119343 0.004657261], small/large = 19.565006771147246
-trial 347 results [0.096308001 0.008075418], small/large = 11.926070080830492
-trial 348 results [0.092672211 0.00477573], small/large = 19.404826277867468
-trial 349 results [0.096221573 0.005074851], small/large = 18.96047253407046
-trial 350 results [0.095387518 0.005098402], small/large = 18.709297148400616
-trial 351 results [0.0978304 0.004723512], small/large = 20.711368998321586
-trial 352 results [0.096121832 0.004732917], small/large = 20.309215648615854
-trial 353 results [0.099085443 0.013603212], small/large = 7.283974034955862
-trial 354 results [0.098528915 0.008962529], small/large = 10.993427747904637
-trial 355 results [0.100927105 0.0135859], small/large = 7.428812592467191
-trial 356 results [0.099602387 0.004974913], small/large = 20.020930416270595
-trial 357 results [0.102179867 0.012821352], small/large = 7.969507973886061
-trial 358 results [0.101094453 0.013670613], small/large = 7.395019740519317
-trial 359 results [0.106784602 0.006755821], small/large = 15.806310143504394
-trial 360 results [0.102449727 0.005266529], small/large = 19.45298829646623
-trial 361 results [0.105335584 0.012305894], small/large = 8.55976688893956
-trial 362 results [0.104110258 0.005382571], small/large = 19.342105844957736
-trial 363 results [0.106563715 0.013903397], small/large = 7.6645811811314895
-trial 364 results [0.105330977 0.011989591], small/large = 8.785201847168931
-trial 365 results [0.107520506 0.005274181], small/large = 20.38619948765505
-trial 366 results [0.106633084 0.005586869], small/large = 19.086376286968605
-trial 367 results [0.108450614 0.005019367], small/large = 21.606432444569204
-trial 368 results [0.107197575 0.013954925], small/large = 7.681701979767
-trial 369 results [0.108934579 0.005155429], small/large = 21.130070649794618
-trial 370 results [0.1083172 0.009773944], small/large = 11.08224070037643
-trial 371 results [0.109171045 0.012022613], small/large = 9.08047568361387
-trial 372 results [0.108087081 0.009990468], small/large = 10.819020790617616
-trial 373 results [0.102880372 0.005254048], small/large = 19.581163323974202
-trial 374 results [0.109706778 0.013433821], small/large = 8.166461202661552
-trial 375 results [0.111894064 0.005460201], small/large = 20.492663914753322
-trial 376 results [0.110387144 0.005325107], small/large = 20.7295635561877
-trial 377 results [0.112600152 0.005496911], small/large = 20.484259614172394
-trial 378 results [0.111663182 0.005561832], small/large = 20.076690917668856
-trial 379 results [0.113356541 0.005499507], small/large = 20.61212777799901
-trial 380 results [0.112443496 0.00572427], small/large = 19.643290061440148
-trial 381 results [0.113888197 0.005706272], small/large = 19.95842416905468
-trial 382 results [0.113061839 0.005550824], small/large = 20.36847844572265
-trial 383 results [0.114720055 0.013052147], small/large = 8.789362776867284
-trial 384 results [0.113074594 0.005628075], small/large = 20.09116687322042
-trial 385 results [0.115640898 0.005892888], small/large = 19.623807206245903
-trial 386 results [0.114392453 0.01248474], small/large = 9.162581920007947
-trial 387 results [0.113919447 0.005931137], small/large = 19.207016631043928
-trial 388 results [0.114945687 0.006027895], small/large = 19.068959728064275
-trial 389 results [0.116821762 0.012863893], small/large = 9.081369224697376
-trial 390 results [0.115933053 0.006103534], small/large = 18.994414219696328
-trial 391 results [0.1173607 0.006504858], small/large = 18.042007988491065
-trial 392 results [0.116701574 0.008999954], small/large = 12.966907830862247
-trial 393 results [0.117790781 0.012789412], small/large = 9.210023181675592
-trial 394 results [0.116262001 0.006417843], small/large = 18.115432396834887
-trial 395 results [0.118459291 0.007794185], small/large = 15.198419206113273
-trial 396 results [0.117552287 0.006389387], small/large = 18.39805399172096
-trial 397 results [0.11921196 0.006715073], small/large = 17.75289114504042
-trial 398 results [0.119092913 0.009389224], small/large = 12.683999550974606
-trial 399 results [0.120815256 0.009672611], small/large = 12.490449166207553
-trial 400 results [0.118686199 0.01343759], small/large = 8.832402164376202
-trial 401 results [0.120414053 0.013266427], small/large = 9.076600127524916
-trial 402 results [0.119305316 0.006843611], small/large = 17.433094312344753
-trial 403 results [0.122412771 0.006869768], small/large = 17.819054588160764
-trial 404 results [0.120150457 0.015271424], small/large = 7.867665582463037
-trial 405 results [0.130264856 0.007241574], small/large = 17.988472671825217
-trial 406 results [0.120321188 0.007698434], small/large = 15.629306947360982
-trial 407 results [0.121731076 0.00709225], small/large = 17.16395727730974
-trial 408 results [0.121188286 0.00729765], small/large = 16.606480990455832
-trial 409 results [0.124446559 0.007731592], small/large = 16.09585179869812
-trial 410 results [0.122836368 0.012137339], small/large = 10.120535316678557
-trial 411 results [0.12452056 0.007113036], small/large = 17.505965104070892
-trial 412 results [0.123274937 0.007509114], small/large = 16.416708682275964
-trial 413 results [0.125430082 0.014153585], small/large = 8.862071482242838
-trial 414 results [0.123860003 0.026903852], small/large = 4.603801827336844
-trial 415 results [0.119696927 0.014732718], small/large = 8.124565134552904
-trial 416 results [0.125525508 0.017969543], small/large = 6.985459118242462
-trial 417 results [0.11948023 0.00840342], small/large = 14.218048128024067
-trial 418 results [0.128579757 0.007950793], small/large = 16.171941213914135
-trial 419 results [0.133611682 0.00794694], small/large = 16.812972288704838
-trial 420 results [0.128943273 0.007923574], small/large = 16.27337272296567
-trial 421 results [0.132752869 0.012278837], small/large = 10.81151814296419
-trial 422 results [0.126845453 0.007803403], small/large = 16.25514573577707
-trial 423 results [0.130222578 0.015089185], small/large = 8.630192949453534
-trial 424 results [0.122202806 0.016414717], small/large = 7.444709890520806
-trial 425 results [0.130104311 0.008109854], small/large = 16.042743926092875
-trial 426 results [0.128542268 0.01558078], small/large = 8.25005346330543
-trial 427 results [0.131478673 0.01806791], small/large = 7.27691653323489
-trial 428 results [0.12711752 0.009372217], small/large = 13.563228422901433
-trial 429 results [0.131059354 0.015629168], small/large = 8.385561790621228
-trial 430 results [0.124591028 0.015448361], small/large = 8.064999775704361
-trial 431 results [0.130968501 0.015149246], small/large = 8.645215808100284
-trial 432 results [0.128600752 0.008406397], small/large = 15.297963205877622
-trial 433 results [0.131491287 0.008695235], small/large = 15.12222349367211
-trial 434 results [0.132663155 0.0084935], small/large = 15.61937422735033
-trial 435 results [0.134440013 0.008936081], small/large = 15.044627840772705
-trial 436 results [0.139185394 0.008963088], small/large = 15.528732285123164
-trial 437 results [0.136164001 0.008625277], small/large = 15.786623548437921
-trial 438 results [0.131868745 0.015748915], small/large = 8.373195550296641
-trial 439 results [0.132329491 0.008841125], small/large = 14.967494634449801
-trial 440 results [0.131868182 0.009171976], small/large = 14.377292526713982
-trial 441 results [0.137319895 0.009280307], small/large = 14.796912968504166
-trial 442 results [0.142480141 0.00920451], small/large = 15.479383584786152
-trial 443 results [0.135852536 0.009179562], small/large = 14.79945731615517
-trial 444 results [0.135084912 0.016475152], small/large = 8.199312030626485
-trial 445 results [0.137131747 0.012425038], small/large = 11.036726567757782
-trial 446 results [0.135388232 0.014543038], small/large = 9.309487604996976
-trial 447 results [0.139052342 0.014867216], small/large = 9.352950949256403
-trial 448 results [0.136383439 0.009184068], small/large = 14.850003179418968
-trial 449 results [0.138990164 0.009341964], small/large = 14.878045344640592
-trial 450 results [0.13622776 0.009395503], small/large = 14.499251397184377
-trial 451 results [0.139417634 0.016684385], small/large = 8.356174590792529
-trial 452 results [0.138064562 0.013803116], small/large = 10.002419888378826
-trial 453 results [0.140184629 0.016783823], small/large = 8.352365786984288
-trial 454 results [0.135255131 0.016943775], small/large = 7.982585403783985
-trial 455 results [0.144274498 0.014239603], small/large = 10.131918565426297
-trial 456 results [0.140117626 0.019264797], small/large = 7.273246948825881
-trial 457 results [0.143406987 0.012954775], small/large = 11.069816882192088
-trial 458 results [0.141412663 0.010123122], small/large = 13.969273807033048
-trial 459 results [0.146833433 0.010186886], small/large = 14.413966446664862
-trial 460 results [0.141258185 0.010333807], small/large = 13.66952034230947
-trial 461 results [0.145606204 0.010291487], small/large = 14.148218231242966
-trial 462 results [0.142287174 0.010569475], small/large = 13.462085297519506
-trial 463 results [0.145686802 0.018161066], small/large = 8.021930100358647
-trial 464 results [0.155362651 0.018457277], small/large = 8.417419915191173
-trial 465 results [0.14641101 0.012466041], small/large = 11.744788100729012
-trial 466 results [0.145180977 0.012418424], small/large = 11.690773080384433
-trial 467 results [0.146087807 0.012302535], small/large = 11.874610151485038
-trial 468 results [0.144700121 0.019197871], small/large = 7.537300412113406
-trial 469 results [0.141601253 0.020311222], small/large = 6.971577239419667
-trial 470 results [0.144652123 0.017966588], small/large = 8.05117382332138
-trial 471 results [0.150380695 0.018723554], small/large = 8.03163197542518
-trial 472 results [0.147989405 0.018378243], small/large = 8.052423999399725
-trial 473 results [0.149806014 0.020718786], small/large = 7.230443617690727
-trial 474 results [0.145380722 0.01292555], small/large = 11.247546293968147
-trial 475 results [0.152402574 0.015139181], small/large = 10.066764774131443
-trial 476 results [0.151253436 0.013311705], small/large = 11.362438996356964
-trial 477 results [0.164491821 0.014458049], small/large = 11.377179659579243
-trial 478 results [0.149183763 0.018625104], small/large = 8.009821743814156
-trial 479 results [0.158453424 0.021460875], small/large = 7.383362700728652
-trial 480 results [0.151913026 0.013068468], small/large = 11.624394381958162
-trial 481 results [0.154830171 0.014828817], small/large = 10.441168098574552
-trial 482 results [0.153071625 0.018478765], small/large = 8.283650179002763
-trial 483 results [0.156237245 0.014089407], small/large = 11.088986569839312
-trial 484 results [0.154005164 0.013600512], small/large = 11.323482821823179
-trial 485 results [0.158132888 0.013752125], small/large = 11.498796585982166
-trial 486 results [0.152416602 0.019444409], small/large = 7.838582391473046
-trial 487 results [0.155933443 0.019520467], small/large = 7.988202485114726
-trial 488 results [0.158550949 0.013755074], small/large = 11.526724538159517
-trial 489 results [0.158681808 0.04350524], small/large = 3.647418288003928
-trial 490 results [0.151495534 0.021674718], small/large = 6.989504269444243
-trial 491 results [0.158724036 0.013941981], small/large = 11.384611412108509
-trial 492 results [0.154228366 0.019477939], small/large = 7.918104990471528
-trial 493 results [0.158411678 0.019759847], small/large = 8.016847397654445
-trial 494 results [0.155938254 0.020962268], small/large = 7.438997249725078
-trial 495 results [0.160451252 0.014493869], small/large = 11.070284407841688
-trial 496 results [0.155360505 0.027097689], small/large = 5.7333488844749825
-trial 497 results [0.158443361 0.014497374], small/large = 10.929107643908477
-trial 498 results [0.157505826 0.023905927], small/large = 6.588568014952944
-trial 499 results [0.163163903 0.020165109], small/large = 8.091397026418255
-trial 500 results [0.160233578 0.015170451], small/large = 10.562215849746325
-trial 501 results [0.161405546 0.024653026], small/large = 6.547088621088543
-trial 502 results [0.16139867 0.014456894], small/large = 11.164131797604659
-trial 503 results [0.185228971 0.020680635], small/large = 8.956638468789764
-trial 504 results [0.157044328 0.026963442], small/large = 5.824342752679721
-trial 505 results [0.172873763 0.014948957], small/large = 11.56426919951673
-trial 506 results [0.161420377 0.020506176], small/large = 7.871793210006585
-trial 507 results [0.173147038 0.016259126], small/large = 10.649221735534864
-trial 508 results [0.165459543 0.025923618], small/large = 6.382579121479108
-trial 509 results [0.170581609 0.016000945], small/large = 10.660720913671037
-trial 510 results [0.162578714 0.022916395], small/large = 7.094427984855385
-trial 511 results [0.169681411 0.02575077], small/large = 6.589372317798652
-trial 512 results [0.167379768 0.016363935], small/large = 10.228576928471057
+trial 1 results [4.3100000000000003e-7 8.9695e-5], small/large = 0.0048051730865711585
+trial 2 results [6.189999999999999e-7 9.016666666666667e-7], small/large = 0.6865064695009241
+trial 3 results [6.056666666666667e-7 1.2613333333333333e-6], small/large = 0.48017970401691334
+trial 4 results [6.41e-7 9.437333333333334e-6], small/large = 0.06792172930206272
+trial 5 results [7.66e-7 9.275999999999999e-6], small/large = 0.08257869771453213
+trial 6 results [9.103333333333333e-7 9.228333333333333e-6], small/large = 0.09864547588947084
+trial 7 results [1.085e-6 8.926333333333335e-6], small/large = 0.12155046865080844
+trial 8 results [1.099e-6 9.079e-6], small/large = 0.1210485736314572
+trial 9 results [1.463e-6 9.870666666666667e-6], small/large = 0.14821693907875186
+trial 10 results [1.8373333333333334e-6 1.1452333333333332e-5], small/large = 0.1604330995139273
+trial 11 results [2.1863333333333335e-6 1.1174333333333332e-5], small/large = 0.19565671330131554
+trial 12 results [2.0570000000000004e-6 2.0344e-5], small/large = 0.10111089264648056
+trial 13 results [2.737666666666667e-6 1.1764e-5], small/large = 0.23271562960444298
+trial 14 results [3.3480000000000004e-6 1.1798666666666666e-5], small/large = 0.283760876935247
+trial 15 results [3.948e-6 1.2452333333333334e-5], small/large = 0.3170490135717536
+trial 16 results [3.71e-6 1.4972666666666665e-5], small/large = 0.2477848523977025
+trial 17 results [4.9390000000000005e-6 1.1906e-5], small/large = 0.41483285738283227
+trial 18 results [5.711666666666667e-6 1.2856666666666667e-5], small/large = 0.4442571947109153
+trial 19 results [6.759000000000001e-6 1.3726000000000002e-5], small/large = 0.49242313856913883
+trial 20 results [6.436333333333334e-6 1.3748333333333334e-5], small/large = 0.4681537156018912
+trial 21 results [8.625000000000001e-6 1.4339666666666668e-5], small/large = 0.6014784165136335
+trial 22 results [9.221333333333334e-6 1.4676666666666666e-5], small/large = 0.6282988871224167
+trial 23 results [1.1199333333333333e-5 1.8549666666666666e-5], small/large = 0.6037484950313573
+trial 24 results [1.0286333333333332e-5 1.4667666666666667e-5], small/large = 0.7012930936527054
+trial 25 results [1.3306333333333333e-5 1.5737e-5], small/large = 0.8455444705682998
+trial 26 results [1.4557333333333332e-5 1.6650333333333332e-5], small/large = 0.8742968108746572
+trial 27 results [1.6655666666666667e-5 1.8627e-5], small/large = 0.8941679640664985
+trial 28 results [1.554566666666667e-5 1.8396e-5], small/large = 0.8450568964267595
+trial 29 results [1.9709e-5 1.8854e-5], small/large = 1.0453484671687707
+trial 30 results [2.1057333333333333e-5 2.0254666666666668e-5], small/large = 1.039628727536041
+trial 31 results [2.4283666666666666e-5 2.174733333333333e-5], small/large = 1.1166273259556727
+trial 32 results [2.2666e-5 2.3262e-5], small/large = 0.9743788152351475
+trial 33 results [3.223366666666667e-5 2.5169333333333333e-5], small/large = 1.2806722466493619
+trial 34 results [3.4688666666666665e-5 2.552e-5], small/large = 1.3592737722048067
+trial 35 results [3.9478666666666665e-5 3.0228999999999998e-5], small/large = 1.3059865250807723
+trial 36 results [3.684633333333333e-5 2.6921999999999997e-5], small/large = 1.3686328405517174
+trial 37 results [4.5080333333333336e-5 2.9246333333333335e-5], small/large = 1.5414012012901903
+trial 38 results [4.679466666666666e-5 3.0659e-5], small/large = 1.5262946171325438
+trial 39 results [5.3591333333333336e-5 3.2508333333333335e-5], small/large = 1.6485413996411176
+trial 40 results [4.9606333333333326e-5 3.349966666666667e-5], small/large = 1.480800803988099
+trial 41 results [6.848466666666666e-5 3.5481e-5], small/large = 1.930178593237695
+trial 42 results [6.195166666666667e-5 3.6011666666666666e-5], small/large = 1.7203221178321841
+trial 43 results [6.9229e-5 3.8956000000000004e-5], small/large = 1.7771075059040966
+trial 44 results [7.067833333333334e-5 3.747233333333333e-5], small/large = 1.886147112981133
+trial 45 results [7.7025e-5 4.038133333333333e-5], small/large = 1.9074407316912105
+trial 46 results [7.941466666666666e-5 4.6719666666666666e-5], small/large = 1.6998123559671516
+trial 47 results [9.938500000000001e-5 4.6789333333333336e-5], small/large = 2.1240952353812834
+trial 48 results [8.3574e-5 4.435833333333333e-5], small/large = 1.8840653766672928
+trial 49 results [8.679133333333334e-5 4.4326e-5], small/large = 1.958023131645836
+trial 50 results [9.285133333333333e-5 4.591633333333333e-5], small/large = 2.0221852790219894
+trial 51 results [0.00010111066666666667 5.218166666666667e-5], small/large = 1.9376664856750454
+trial 52 results [0.000103973 4.8456666666666666e-5], small/large = 2.1456903074912295
+trial 53 results [0.00010629833333333332 5.010166666666666e-5], small/large = 2.121652639632747
+trial 54 results [0.0001093 5.333e-5], small/large = 2.0495030939433714
+trial 55 results [0.00012171133333333335 5.709266666666666e-5], small/large = 2.131820782587373
+trial 56 results [0.00011437999999999999 5.9327e-5], small/large = 1.9279586023227195
+trial 57 results [0.00013048499999999998 6.000166666666667e-5], small/large = 2.1746895919557785
+trial 58 results [0.00013450333333333336 6.1692e-5], small/large = 2.180239469191035
+trial 59 results [0.000150474 6.754e-5], small/large = 2.227924193070773
+trial 60 results [0.00014122066666666667 6.8735e-5], small/large = 2.054567057054873
+trial 61 results [0.00016097033333333332 6.994199999999999e-5], small/large = 2.301483133644067
+trial 62 results [0.00018680333333333333 8.0188e-5], small/large = 2.3295671837847722
+trial 63 results [0.00018448866666666665 7.807800000000001e-5], small/large = 2.3628764397995163
+trial 64 results [0.00016806466666666666 7.673433333333333e-5], small/large = 2.1902147235266263
+trial 65 results [0.00019110233333333333 7.823733333333332e-5], small/large = 2.442597736800846
+trial 66 results [0.00020889333333333333 8.0835e-5], small/large = 2.584194140327004
+trial 67 results [0.00021499766666666664 8.649466666666666e-5], small/large = 2.485675417366774
+trial 68 results [0.0002036906666666667 8.873433333333334e-5], small/large = 2.295511320308186
+trial 69 results [0.0002314023333333333 8.9347e-5], small/large = 2.5899284064751287
+trial 70 results [0.00024226233333333333 9.676233333333333e-5], small/large = 2.5036842848629117
+trial 71 results [0.000258735 0.00010167266666666667], small/large = 2.5447842422414415
+trial 72 results [0.00025069400000000004 0.00010073933333333333], small/large = 2.488541384034042
+trial 73 results [0.0002699593333333334 0.00010488933333333333], small/large = 2.573753924771506
+trial 74 results [0.000272261 0.00010694266666666666], small/large = 2.545859463637837
+trial 75 results [0.00030851033333333333 0.00011501433333333334], small/large = 2.682364227067351
+trial 76 results [0.00027729633333333333 0.00011546533333333334], small/large = 2.4015548678391205
+trial 77 results [0.0003224086666666667 0.00012048866666666666], small/large = 2.6758422645560027
+trial 78 results [0.00031650566666666666 0.00012495], small/large = 2.5330585567560355
+trial 79 results [0.00035292633333333336 0.0001351966666666667], small/large = 2.6104662343746146
+trial 80 results [0.000322065 0.0001278243333333333], small/large = 2.5195906882622774
+trial 81 results [0.0003663726666666667 0.00013559333333333334], small/large = 2.7019961650031963
+trial 82 results [0.00037260666666666663 0.00014161566666666666], small/large = 2.6311119061685737
+trial 83 results [0.00040253000000000006 0.000149944], small/large = 2.684535559942379
+trial 84 results [0.000372249 0.00014551366666666667], small/large = 2.558172084638098
+trial 85 results [0.00041814666666666663 0.000158429], small/large = 2.6393316038519883
+trial 86 results [0.000419018 0.00017368733333333333], small/large = 2.4124845028038893
+trial 87 results [0.0004626153333333333 0.00016915500000000002], small/large = 2.7348605322534554
+trial 88 results [0.0004389046666666667 0.00016650633333333334], small/large = 2.6359637971728804
+trial 89 results [0.00048469666666666665 0.00017624899999999999], small/large = 2.7500676126767623
+trial 90 results [0.000484326 0.00019081766666666667], small/large = 2.5381612114881045
+trial 91 results [0.0005242246666666666 0.000199063], small/large = 2.6334610985801814
+trial 92 results [0.0004869153333333333 0.00018519266666666668], small/large = 2.6292365788422143
+trial 93 results [0.000555032 0.000199074], small/large = 2.788068758351166
+trial 94 results [0.000543286 0.00022636333333333334], small/large = 2.4000618474723527
+trial 95 results [0.0005965316666666666 0.00022389899999999998], small/large = 2.664289106546553
+trial 96 results [0.000559998 0.00021487666666666666], small/large = 2.6061368536990215

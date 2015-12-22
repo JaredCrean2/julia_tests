@@ -37,7 +37,7 @@ end
 =#
 function getindex(arr::FakeArray, i::Integer, j::Integer, k::Integer)
   q_view = unsafe_view(arr.a, :, j, k)
-  arr.funct(q_view, arr.buf) 
+  arr.func(q_view, arr.buf) 
   return arr.buf[i]
 end
 

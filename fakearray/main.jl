@@ -7,6 +7,7 @@ include("funcs.jl")
 type FakeArray{T, N, Tfunc} <: AbstractArray{T,N}
   a::Array{T, N}
   func::Tfunc
+  old_idx::NTuple{N, Int}  # hold j, k indices of last accessed value
   buf::Array{T, 1} # buffer to hold output (temporarily)
 end
 
@@ -18,13 +19,20 @@ function FakeArray(a::Array, func)
   T = eltype(a)
   N = length(size(a))
 
-  return FakeArray{T, N, typeof(func)}(a, func, zeros(T, size(a, 1)))
+  return FakeArray{T, N, typeof(func)}(a, func, (0, 0, 0), zeros(T, size(a, 1)))
 end
 
 
 function getindex(arr::FakeArray, i::Integer)
   idx = ind2sub(arr.a, i)
   q_view = unsafe_view(arr.a, :, idx[2], idx[3])
+
+  if idx[2] != arr.old_idx[2] || idx[3] != arr.old_idx[3]
+    println("calculating values 1 index, indices = ", idx) 
+    arr.func(q_view, arr.buf) 
+    arr.old_idx = idx
+  end
+
   arr.func(q_view, arr.buf)
  
   return arr.buf[idx[1]]
@@ -37,7 +45,12 @@ end
 =#
 function getindex(arr::FakeArray, i::Integer, j::Integer, k::Integer)
   q_view = unsafe_view(arr.a, :, j, k)
-  arr.func(q_view, arr.buf) 
+
+  if j != arr.old_idx[2] || k != arr.old_idx[3]
+#    println("calculating values 3 indicies") 
+    arr.func(q_view, arr.buf) 
+    arr.old_idx = (0, j, k)
+  end
   return arr.buf[i]
 end
 
@@ -87,6 +100,9 @@ function length(arr::FakeArrayView)
   return size(arr)[1]
 end
 =#
+
+#immutable FakeArrayView{T, N, Tfunc} <: AbstractArray{T, N}
+
 # define our own ArrayViews type to go along with FakeArray
 # here we only support the case where we have a large array and
 # we are interested in taking a view of the first dimension.
@@ -132,7 +148,8 @@ end
 else
 function unsafe_view(arr::FakeArray, arg1::Colon, i::Integer, j::Integer)
   q_view = unsafe_view(arr.a, :, i, j)
-  arr.func(q_view, arr.buf)
+  arr.func(q_view, arr.buf) 
+
   return arr.buf
 end
 
@@ -140,7 +157,7 @@ end
 
 
 
-function sum_inner{T}(arr::AbstractArray{T})
+@inline function sum_inner{T}(arr::AbstractArray{T})
   val = zero(T)
   for i=1:length(arr)
     val += arr[i]
@@ -148,6 +165,18 @@ function sum_inner{T}(arr::AbstractArray{T})
 
   return val
 end
+
+# this sum_inner takes an unused extra argument
+@inline function sum_inner{T}(arr::AbstractArray{T}, arr2::AbstractArray)
+  val = zero(T)
+  for i=1:length(arr)
+    val += arr[i]
+  end
+
+  return val
+end
+
+
 
 # direct sum
 function sum2{T}(arr::AbstractArray{T})
@@ -161,6 +190,8 @@ end
 
 
 # sum over dimension
+# the compiler is not smart enough to realize that a view of arr2 is never
+# used, so it does the computation to calculate values that are not used
 function sum3{T}(arr::FakeArray{T})
 
   val = zero(T)

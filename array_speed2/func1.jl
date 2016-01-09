@@ -4,13 +4,13 @@
 
 
 
-
+# double for loop
 function func1(q, F_xi)
     getEulerFlux(q, F_xi)
   return nothing
 end
 
-
+# unsafe view
 function func2(q, F_xi)
 
    (ncomp, nnodes,  nel) = size(q)
@@ -29,8 +29,27 @@ function func2(q, F_xi)
 
 end
 
+# safe view
+function func2a(q, F_xi)
+
+   (ncomp, nnodes,  nel) = size(q)
+   for i=1:nel
+      for j=1:nnodes
+#         q_j = unsafe_view(q, :, j, i)
+#         F_j = unsafe_view(q, :, j, i)
+         q_j = view(q, :, j, i)
+         F_j = view(q, :, j, i)
+
+         getEulerFlux(q_j, F_j)
+      end
+   end
+
+   return nothing
+
+end
 
 
+# slice
 function func3(q, F_xi)
 
     (ncomp, nnodes,  nel) = size(q)

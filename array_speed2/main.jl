@@ -20,14 +20,19 @@ gc()
 
 
 @time func2(q, F)
-println("ArrayView @time printed above")
+println("unsafe ArrayView @time printed above")
+
+gc()
+
+@time func2a(q, F)
+println("safe ArrayView @time printed above")
 
 gc()
 
 
 
-#@time func3(q, F)
-#println("slice @time printed above")
+@time func3(q, F)
+println("slice @time printed above")
 
 gc()
 
@@ -43,7 +48,7 @@ end
 
 println("warming up")
 runtest()
-println("Final testing: \n")
+println("\nFinal testing: \n")
 gc()
 runtest()
 

@@ -64,6 +64,23 @@ function func3(q, F_xi)
   return nothing
 end
 
+# unsafe slice
+function func4(q, F_xi)
+
+    (ncomp, nnodes,  nel) = size(q)
+   for i=1:nel
+      for j=1:nnodes
+         q_j = Base._slice_unsafe(q, (:, j, i))
+         F_j = Base._slice_unsafe(q, (:, j, i))
+         getEulerFlux(q_j, F_j)
+      end
+   end
+
+  return nothing
+end
+
+
+
 function func6(obj, q, F_xi)
     
    (ncomp, nnodes,  nel) = size(q)

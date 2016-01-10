@@ -36,6 +36,14 @@ println("slice @time printed above")
 
 gc()
 
+if VERSION >= v"0.4.3-pre+6"
+  @time func4(q, F)
+  println("unsafe slice @time printed above")
+
+  gc()
+
+end
+
 
 @time func6(obj, q, F)
 println("callable object @time printed above")
